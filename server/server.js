@@ -2,7 +2,9 @@ const express = require('express')
 const app = express()
 const puppeteer = require('puppeteer')
 
-puppeteer.
+const getInfo = async () => {
+    const browser = await puppeteer.launch();
+}
 
 
 
