@@ -7,44 +7,57 @@ async function getInfo(term) {
   const data = await axios.get(
     `https://api.fda.gov/drug/drugsfda.json?search=products.brand_name:${term}&limit=1`
   );
+//   console.log(data.data.results[0])
   const dataTrials = await axios.get(
     `https://classic.clinicaltrials.gov/api/query/full_studies?expr=${term}&min_rnk=1&max_rnk=29&fmt=json`
   );
   const drugData = data.data.results[0];
-  const studies = dataTrials.data.FullStudiesResponse.FullStudies
-  console.log(dataTrials.data)
+  const studies = dataTrials.data.FullStudiesResponse.FullStudies;
+//   console.log(dataTrials.data);
   const name = drugData.products[0].brand_name;
   const body = drugData.openfda;
   let submissions = [];
-//   console.log(drugData);
+    // console.log(drugData.submissions);
   drugData.submissions.forEach((element) => {
     // console.log('new submission')
     let docHolder = [];
     const docFinal = [];
-    const docs = element.application_docs.map((doc) => {
-        const docDate = formatDate(doc.date)
-        // console.log(doc)
-        return {
-            "doc date": docDate, 
-            "doc url": doc.url,
-            "doc type":doc.type
-        }
-    //   doc.forEach((innerDoc) => docHolder.push(innerDoc));
+    const docs = element.application_docs && element.application_docs.map((doc) => {
+      const docDate = formatDate(doc.date);
+      // console.log(doc)
+      return {
+        "doc date": docDate,
+        "doc url": doc.url,
+        "doc type": doc.type,
+      };
+      //   doc.forEach((innerDoc) => docHolder.push(innerDoc));
     });
     // console.log(`doc list`)
     // console.log(docs)
     // docFinal.push(docs)
-  
+
     submissions.push({
       "submission type": element.submission_class_code_description,
-      "initial lanch": (element.submission_class_code_description == 'Type 5 - New Formulation or New Manufacturer' || element.submission_class_code_description == 'Type 1 - New Molecular Entity') ? true : false,
+      "initial launch":
+        element.submission_type == 'ORIG'
+          ? true
+          : false,
       "submission date": formatDate(element.submission_status_date),
-      "docs": docs.flat()[0]
+      docs: (docs && docs.length > 1) && docs.flat()[0]
     });
   });
-  console.log(submissions);
+//   console.log(submissions);
+const launchDate = submissions.find(sub => sub["initial launch"] == true)['submission date']
+  const returnData = {
+    name: name,
+    details: body,
+    submissions: submissions,
+    launch_date: launchDate,
+    new_indications: submissions.filter(sub => sub['submission type'] == 'Efficacy')
+  };
+  console.log(returnData)
 }
 
 app.listen(5500, console.log("app running"));
 
-getInfo(`Dupixent`);
+getInfo(`spiriva`);
