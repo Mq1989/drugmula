@@ -37,7 +37,7 @@ async function getInfo(term) {
   
     submissions.push({
       "submission type": element.submission_class_code_description,
-      "initial lanch": element.submission_class_code_description == 'Type 5 - New Formulation or New Manufacturer' ? true : false,
+      "initial lanch": (element.submission_class_code_description == 'Type 5 - New Formulation or New Manufacturer' || element.submission_class_code_description == 'Type 1 - New Molecular Entity') ? true : false,
       "submission date": formatDate(element.submission_status_date),
       "docs": docs.flat()[0]
     });
