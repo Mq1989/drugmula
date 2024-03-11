@@ -4,6 +4,7 @@ const axios = require("axios");
 const formatDate = require("./utils/formatDate");
 
 async function getInfo(term) {
+    const multiFieldSearchExample = 'https://api.fda.gov/drug/drugsfda.json?search=submissions.submission_number:41AND+application_number:NDA021395&limit=1'
   const data = await axios.get(
     `https://api.fda.gov/drug/drugsfda.json?search=products.brand_name:${term}&limit=1`
   );
@@ -53,11 +54,12 @@ const launchDate = submissions.find(sub => sub["initial launch"] == true)['submi
     details: body,
     submissions: submissions,
     launch_date: launchDate,
-    new_indications: submissions.filter(sub => sub['submission type'] == 'Efficacy')
+    new_indications: submissions.filter(sub => sub['submission type'] == 'Efficacy'),
+    relatedStudies: studies[0].Study.ProtocolSection.IdentificationModule.OfficialTitle
   };
   console.log(returnData)
 }
 
 app.listen(5500, console.log("app running"));
 
-getInfo(`spiriva`);
+getInfo(`skyrizi`);
