@@ -1,35 +1,71 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { useState } from "react";
+import "./App.css";
+import axios from "axios";
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [input, setInput] = useState("");
+  const [results, setResults] = useState([]);
+  const [search, setSearch] = useState(false);
+  const [id, setId] = useState();
+
+  function checkInput(e) {
+    if (e.target.value.length < 1) {
+      setSearch(false);
+    }
+  }
+
+  function delayBlur() {
+    setTimeout(() => {
+      setSearch(false);
+    }, 1000);
+  }
+
+
+
+  function connect(e) {
+    setInput(e.target.value);
+    console.log(e.target.value)
+    clearTimeout(id);
+    setSearch(false);
+    setResults([]);
+    if (input.length > 1) {
+      setId(
+        setTimeout(async () => {
+          const response = await axios.get("/autocomplete", {
+            params: {
+              query: encodeURI(e.target.value),
+            },
+          });
+          if (response) {
+            console.log(response.data);
+            setResults(response.data);
+            setSearch(true);
+          } else {
+            setSearch(false);
+          }
+        }, 1000)
+      );
+    }
+  }
 
   return (
     <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+      <div className="flex flex-col items-center justify-center h-screen w-full align-middle p-4">
+        <div className=" flex flex-col items-center justify-center align-middle h-14 w-full md:w-1/2 rounded-md xl:w-1/4 ">
+          <input
+          className="w-full h-full px-2 shadow-md focus:ring-indigo-600 border-2 border-gray-600 rounded-lg "
+            type="text"
+            value={input}
+            onFocus={checkInput}
+            onChange={(e) => connect(e)}
+            name="search"
+            id="search"
+            onBlur={delayBlur}
+          />
+        </div>
       </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
