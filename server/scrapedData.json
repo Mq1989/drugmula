@@ -1,0 +1,4282 @@
+[
+  {
+    "brandName": "Abecma",
+    "genericName": "idecabtagene vicleucel"
+  },
+  {
+    "brandName": "Wegovy",
+    "genericName": "semaglutide"
+  },
+  {
+    "brandName": "Lexapro",
+    "genericName": "Escitalopram"
+  },
+  {
+    "brandName": "Atarax",
+    "genericName": "Hydroxyzine hydrochloride"
+  },
+  {
+    "brandName": "Ativan",
+    "genericName": "Lorazepam "
+  },
+  {
+    "brandName": "Abilify",
+    "genericName": "aripiprazole"
+  },
+  {
+    "brandName": "Abilify Asimtufii",
+    "genericName": "aripiprazole"
+  },
+  {
+    "brandName": "Abilify Maintena injection",
+    "genericName": "aripiprazole"
+  },
+  {
+    "brandName": "Abraxane",
+    "genericName": "albumin-bound paclitaxel"
+  },
+  {
+    "brandName": "Abrilada",
+    "genericName": "adalimumab-afzb"
+  },
+  {
+    "brandName": "Abrysvo",
+    "genericName": "Respiratory Syncytial Virus Vaccine"
+  },
+  {
+    "brandName": "Acanya",
+    "genericName": "clindamycin phosphate and benzoyl peroxide"
+  },
+  {
+    "brandName": "Actemra",
+    "genericName": "tocilizumab"
+  },
+  {
+    "brandName": "Acthar Gel",
+    "genericName": "repository corticotropin injection"
+  },
+  {
+    "brandName": "Actimmune",
+    "genericName": "interferon gamma-1b"
+  },
+  {
+    "brandName": "Activase",
+    "genericName": "alteplase"
+  },
+  {
+    "brandName": "Adacel",
+    "genericName": "tetanus toxoid, reduced diphtheria toxoid and acellular pertussis vaccine"
+  },
+  {
+    "brandName": "Adakveo",
+    "genericName": "crizanlizumab-tmca"
+  },
+  {
+    "brandName": "Adbry",
+    "genericName": "tralokinumab-idrm injection"
+  },
+  {
+    "brandName": "Adcetris",
+    "genericName": "brentuximab vedotin"
+  },
+  {
+    "brandName": "Adcirca tablets",
+    "genericName": "tadalafil"
+  },
+  {
+    "brandName": "Adempas Tablet",
+    "genericName": "riociguat"
+  },
+  {
+    "brandName": "Admelog",
+    "genericName": "insulin lispro injection"
+  },
+  {
+    "brandName": "Adthyza",
+    "genericName": "thyroid tablets"
+  },
+  {
+    "brandName": "Aduhelm",
+    "genericName": "aducanumab-AVWA injection"
+  },
+  {
+    "brandName": "Advate",
+    "genericName": "antihemophilic factor"
+  },
+  {
+    "brandName": "Adynovate",
+    "genericName": "Antihemophilic Factor (Recombinant), PEGylated"
+  },
+  {
+    "brandName": "Adzynma",
+    "genericName": "ADAMTS13 recombinant-krhn injection; iv"
+  },
+  {
+    "brandName": "Affinity",
+    "genericName": "tissue-human allograft dermal substitute"
+  },
+  {
+    "brandName": "Afinitor",
+    "genericName": "everolimus"
+  },
+  {
+    "brandName": "Afinitor Disperz",
+    "genericName": "everolimus"
+  },
+  {
+    "brandName": "Afstyla",
+    "genericName": "antihemophilic factor (recombinant)"
+  },
+  {
+    "brandName": "Agamree",
+    "genericName": "vamorolone"
+  },
+  {
+    "brandName": "Agrylin",
+    "genericName": "anagrelide hydrochloride"
+  },
+  {
+    "brandName": "Aimovig",
+    "genericName": "erenumab"
+  },
+  {
+    "brandName": "Ajovy",
+    "genericName": "fremanezumab-vfrm"
+  },
+  {
+    "brandName": "Akeega",
+    "genericName": "niraparib and abiraterone acetate"
+  },
+  {
+    "brandName": "Akynzeo capsule",
+    "genericName": "netupitant/palonosetron capsule"
+  },
+  {
+    "brandName": "Akynzeo injection",
+    "genericName": "fosnetupitant/palonosetron"
+  },
+  {
+    "brandName": "Aldara",
+    "genericName": "imiquimod"
+  },
+  {
+    "brandName": "Alecensa",
+    "genericName": "alectinib"
+  },
+  {
+    "brandName": "Alimta",
+    "genericName": "pemetrexed"
+  },
+  {
+    "brandName": "Allegra OTC",
+    "genericName": "fexofenadine OTC tablet"
+  },
+  {
+    "brandName": "AlloDerm",
+    "genericName": "wound matrix"
+  },
+  {
+    "brandName": "Alphagan P ophthalmic solution",
+    "genericName": "brimonidine tartrate ophthalmic solution"
+  },
+  {
+    "brandName": "Alprolix",
+    "genericName": "Coagulation Factor IX (Recombinant), Fc Fusion Protein"
+  },
+  {
+    "brandName": "Alrex suspension .2%",
+    "genericName": "loteprednol etabonate ophthalmic suspension"
+  },
+  {
+    "brandName": "Altuviiio",
+    "genericName": "antihemophilic factor injection; iv"
+  },
+  {
+    "brandName": "Alunbrig",
+    "genericName": "brigatinib"
+  },
+  {
+    "brandName": "Alymsys",
+    "genericName": "bevacizumab-maly"
+  },
+  {
+    "brandName": "Amitiza",
+    "genericName": "lubiprostone"
+  },
+  {
+    "brandName": "Amjevita",
+    "genericName": "adalimumab-atto"
+  },
+  {
+    "brandName": "Amondys 45",
+    "genericName": "casimersen injection"
+  },
+  {
+    "brandName": "Ampyra Tablet",
+    "genericName": "dalfampridine"
+  },
+  {
+    "brandName": "Amvuttra",
+    "genericName": "vutrisiran injectable"
+  },
+  {
+    "brandName": "Analpram HC Cream",
+    "genericName": "hydrocortisone/pramoxine"
+  },
+  {
+    "brandName": "Ancobon Caps",
+    "genericName": "flucytosine"
+  },
+  {
+    "brandName": "Andexxa",
+    "genericName": "coagulation factor Xa (recombinant), inactivated-zhzo"
+  },
+  {
+    "brandName": "Anoro Ellipta",
+    "genericName": "umeclidinium and vilanterol inhalation powder"
+  },
+  {
+    "brandName": "Apidra",
+    "genericName": "insulin glulisine"
+  },
+  {
+    "brandName": "Apligraf",
+    "genericName": "bi-layered skin substitute"
+  },
+  {
+    "brandName": "Apokyn injection 10mg/mL",
+    "genericName": "apomorphine hydrochloride"
+  },
+  {
+    "brandName": "Apretude",
+    "genericName": "cabotegravir"
+  },
+  {
+    "brandName": "Aptiom Tablet",
+    "genericName": "eslicarbazepine acetate"
+  },
+  {
+    "brandName": "Aptivus capsules",
+    "genericName": "tipranavir"
+  },
+  {
+    "brandName": "Aranesp",
+    "genericName": "darbepoetin alfa"
+  },
+  {
+    "brandName": "Arazlo",
+    "genericName": "tazarotene"
+  },
+  {
+    "brandName": "Arestin",
+    "genericName": "minocycline"
+  },
+  {
+    "brandName": "Arikayce",
+    "genericName": "amikacin liposome inhalation suspension"
+  },
+  {
+    "brandName": "Aristada",
+    "genericName": "aripiprazole lauroxil"
+  },
+  {
+    "brandName": "Arixtra",
+    "genericName": "fondaparinux sodium"
+  },
+  {
+    "brandName": "Armour Thyroid",
+    "genericName": "thyroid"
+  },
+  {
+    "brandName": "Arnuity Ellipta",
+    "genericName": "fluticasone furoate inhalation powder"
+  },
+  {
+    "brandName": "Asparlas",
+    "genericName": "calaspargase pegol-mknl injectable"
+  },
+  {
+    "brandName": "Atopiclair Cream",
+    "genericName": "nonsteroidal cream"
+  },
+  {
+    "brandName": "Atripla",
+    "genericName": "efavirenx/emtricitabine/tenofovir disoproxil fumarate"
+  },
+  {
+    "brandName": "Atrovent HFA Inhalation Aerosol",
+    "genericName": "ipratropium bromide"
+  },
+  {
+    "brandName": "Augtyro",
+    "genericName": "repotrectinib"
+  },
+  {
+    "brandName": "Auryxia Tablet",
+    "genericName": "ferric citrate"
+  },
+  {
+    "brandName": "Austedo",
+    "genericName": "deutetrabenazine"
+  },
+  {
+    "brandName": "Auvi-Q",
+    "genericName": "epinephrine injection"
+  },
+  {
+    "brandName": "Avastin",
+    "genericName": "bevacizumab"
+  },
+  {
+    "brandName": "Avonex",
+    "genericName": "interferon beta-1a"
+  },
+  {
+    "brandName": "Avsola injection",
+    "genericName": "infliximab-axxq"
+  },
+  {
+    "brandName": "Avycaz Vials",
+    "genericName": "ceftazidime/avibactam"
+  },
+  {
+    "brandName": "Aygestin",
+    "genericName": "norethindrone acetate tablet"
+  },
+  {
+    "brandName": "Ayvakit tablet",
+    "genericName": "avapritnib tablet"
+  },
+  {
+    "brandName": "Azedra",
+    "genericName": "iobenguane"
+  },
+  {
+    "brandName": "Bafiertam",
+    "genericName": "monomethyl fumarate"
+  },
+  {
+    "brandName": "Balversa",
+    "genericName": "erdafitinib"
+  },
+  {
+    "brandName": "Baraclude",
+    "genericName": "entecavir"
+  },
+  {
+    "brandName": "Basaglar",
+    "genericName": "insulin glargine injection"
+  },
+  {
+    "brandName": "Bavencio",
+    "genericName": "avelumab injection"
+  },
+  {
+    "brandName": "Beleodaq Powder",
+    "genericName": "belinostat"
+  },
+  {
+    "brandName": "Belrapzo",
+    "genericName": "bendamustine hydrochloride injection"
+  },
+  {
+    "brandName": "Belsomra",
+    "genericName": "suvorexant"
+  },
+  {
+    "brandName": "Bendeka Injection",
+    "genericName": "bendamustine HCl"
+  },
+  {
+    "brandName": "BeneFIX injection",
+    "genericName": "recombinant"
+  },
+  {
+    "brandName": "Benlysta",
+    "genericName": "belimumab"
+  },
+  {
+    "brandName": "Benzamycin Topical Gel",
+    "genericName": "erythromycin; benzoyl peroxide"
+  },
+  {
+    "brandName": "Beovu",
+    "genericName": "brolucizumab-dbll"
+  },
+  {
+    "brandName": "Berinert",
+    "genericName": "c1 esterase inhibitor"
+  },
+  {
+    "brandName": "Besivance",
+    "genericName": "besifloxacin ophthalmic suspension"
+  },
+  {
+    "brandName": "Besponsa",
+    "genericName": "inotuzumab ozogamicin"
+  },
+  {
+    "brandName": "Besremi",
+    "genericName": "ropeginterferon alfa-2b-njft"
+  },
+  {
+    "brandName": "Betaseron",
+    "genericName": "interferon beta-1b"
+  },
+  {
+    "brandName": "Bevespi Aerosphere",
+    "genericName": "glycopyrrolate and formoterol fumarate"
+  },
+  {
+    "brandName": "Biafine",
+    "genericName": "biafine"
+  },
+  {
+    "brandName": "BiDil",
+    "genericName": "isosorbide dinitrate and hydralazine hydrochloride"
+  },
+  {
+    "brandName": "Biktarvy",
+    "genericName": "bictegravir/emtricitabine/tenofovir alafenamide"
+  },
+  {
+    "brandName": "Bimzelx",
+    "genericName": "bimekizumab-bkzx"
+  },
+  {
+    "brandName": "Blincyto",
+    "genericName": "blinatumomab"
+  },
+  {
+    "brandName": "Boostrix",
+    "genericName": "tetanus toxoid, reduced diphtheria toxoid and acellular pertussis vaccine"
+  },
+  {
+    "brandName": "Bosulif",
+    "genericName": "bosutinib"
+  },
+  {
+    "brandName": "Botox",
+    "genericName": "botulinum toxin type A"
+  },
+  {
+    "brandName": "Braftovi capsules",
+    "genericName": "encorafenib"
+  },
+  {
+    "brandName": "Breo Ellipta",
+    "genericName": "fluticasone furoate and vilanterol inhalation powder"
+  },
+  {
+    "brandName": "Breyanzi",
+    "genericName": "lisocabtagene maraleucel"
+  },
+  {
+    "brandName": "Breztri Aerosphere inhalation aerosol",
+    "genericName": "budesonide/glycopyrrolate/formoterol fumarate"
+  },
+  {
+    "brandName": "Brilinta Tablets",
+    "genericName": "ticagrelor"
+  },
+  {
+    "brandName": "Brineura",
+    "genericName": "cerliponase alpa"
+  },
+  {
+    "brandName": "BRIUMVI",
+    "genericName": "ublituximab-xiiy"
+  },
+  {
+    "brandName": "Briviact",
+    "genericName": "brivaracetam"
+  },
+  {
+    "brandName": "Bronchitol Inhalation",
+    "genericName": "mannitol"
+  },
+  {
+    "brandName": "Brukinsa",
+    "genericName": "zanubrutinib"
+  },
+  {
+    "brandName": "Bryhali lotion",
+    "genericName": "halobetasol propionate"
+  },
+  {
+    "brandName": "Buphenyl Powder",
+    "genericName": "sodium phenylbutyrate"
+  },
+  {
+    "brandName": "Buphenyl Tablet",
+    "genericName": "sodium phenylbutyrate"
+  },
+  {
+    "brandName": "Bydureon BCise",
+    "genericName": "exenatide extended-release"
+  },
+  {
+    "brandName": "Bylvay",
+    "genericName": "odevixibat"
+  },
+  {
+    "brandName": "Byooviz",
+    "genericName": "ranibizumab-nuna"
+  },
+  {
+    "brandName": "Cabenuva",
+    "genericName": "cabotegravir; rilpivirine"
+  },
+  {
+    "brandName": "Cablivi",
+    "genericName": "caplacizumab-YHDP"
+  },
+  {
+    "brandName": "Cabometyx",
+    "genericName": "cabozantinib s-malate"
+  },
+  {
+    "brandName": "Caduet",
+    "genericName": "amlodipine besylate/atorvastatin calcium"
+  },
+  {
+    "brandName": "Calcilo XD Powder",
+    "genericName": "Calcilo XD Powder"
+  },
+  {
+    "brandName": "Calquence",
+    "genericName": "acalabrutinib"
+  },
+  {
+    "brandName": "Camcevi",
+    "genericName": "leuprolide"
+  },
+  {
+    "brandName": "Camzyos",
+    "genericName": "mavacamten"
+  },
+  {
+    "brandName": "Canasa",
+    "genericName": "mesalamine"
+  },
+  {
+    "brandName": "Caplyta",
+    "genericName": "lumateperone"
+  },
+  {
+    "brandName": "Caprelsa",
+    "genericName": "vandetanib"
+  },
+  {
+    "brandName": "Carac Cream",
+    "genericName": "fluorouracil cream"
+  },
+  {
+    "brandName": "Carbaglu",
+    "genericName": "carglumic acid"
+  },
+  {
+    "brandName": "Carbatrol",
+    "genericName": "carbamazepine"
+  },
+  {
+    "brandName": "Cathflo",
+    "genericName": "alteplase"
+  },
+  {
+    "brandName": "Cayston",
+    "genericName": "aztreonam for inhalation solution"
+  },
+  {
+    "brandName": "Celebrex",
+    "genericName": "celecoxib"
+  },
+  {
+    "brandName": "CellCept",
+    "genericName": "mycophenolate mofetil"
+  },
+  {
+    "brandName": "Celontin",
+    "genericName": "methsuximide"
+  },
+  {
+    "brandName": "Chenodal",
+    "genericName": "chenodiol tablet"
+  },
+  {
+    "brandName": "Cholbam capsule",
+    "genericName": "cholic acid capsule"
+  },
+  {
+    "brandName": "Cialis",
+    "genericName": "tadalafil"
+  },
+  {
+    "brandName": "Cibinqo",
+    "genericName": "abrocitinib tablet"
+  },
+  {
+    "brandName": "Cimerli",
+    "genericName": "ranibizumab-eqrn"
+  },
+  {
+    "brandName": "CIMZIA",
+    "genericName": "certolizumab pegol"
+  },
+  {
+    "brandName": "Cinqair",
+    "genericName": "reslizumab"
+  },
+  {
+    "brandName": "Cinvanti",
+    "genericName": "aprepitant injectable emulsion; iv"
+  },
+  {
+    "brandName": "Climara Pro 0.045mg/.015mg",
+    "genericName": "estradiol/levonorgestrel transdermal system"
+  },
+  {
+    "brandName": "Clindagel Topical Gel",
+    "genericName": "clinclamycin phosphate gel"
+  },
+  {
+    "brandName": "Clozapine",
+    "genericName": "clozapine"
+  },
+  {
+    "brandName": "Coartem",
+    "genericName": "artmether and lumefantrine tablets"
+  },
+  {
+    "brandName": "Colazal",
+    "genericName": "balsalazide"
+  },
+  {
+    "brandName": "Colcrys tablet",
+    "genericName": "colchicine"
+  },
+  {
+    "brandName": "Combivent Inhalation Aerosol",
+    "genericName": "ipratropium bromide; albuterol sulfate"
+  },
+  {
+    "brandName": "Cometriq capsule",
+    "genericName": "cabozantinib s-malate capsule"
+  },
+  {
+    "brandName": "Comirnaty",
+    "genericName": "COVID-19 Vaccine, mRNA"
+  },
+  {
+    "brandName": "Complera",
+    "genericName": "emtricitabine/rilpivirine/tenofovir disoproxil fumarate"
+  },
+  {
+    "brandName": "Copaxone",
+    "genericName": "glatiramer acetate"
+  },
+  {
+    "brandName": "Corifact",
+    "genericName": "factor xiii concentrate (human)"
+  },
+  {
+    "brandName": "Corlanor",
+    "genericName": "ivabradine"
+  },
+  {
+    "brandName": "Cortifoam",
+    "genericName": "hydrocortisone acetate 10%"
+  },
+  {
+    "brandName": "Cortrophin Gel",
+    "genericName": "corticotropin injection"
+  },
+  {
+    "brandName": "Cosela",
+    "genericName": "trilaciclib injection"
+  },
+  {
+    "brandName": "Cosentyx",
+    "genericName": "secukinumab"
+  },
+  {
+    "brandName": "Cotellic",
+    "genericName": "cobimetinib"
+  },
+  {
+    "brandName": "Creon Delayed-Release capsules",
+    "genericName": "pancrelipase"
+  },
+  {
+    "brandName": "Cresemba Capsule",
+    "genericName": "isavuconazonium sulfate"
+  },
+  {
+    "brandName": "Cresemba Injection",
+    "genericName": "isavuconazonium sulfate"
+  },
+  {
+    "brandName": "Crinone",
+    "genericName": "progesterone gel"
+  },
+  {
+    "brandName": "Crysvita",
+    "genericName": "burosumab-twza injection"
+  },
+  {
+    "brandName": "Cuprimine capsules",
+    "genericName": "penicillamine"
+  },
+  {
+    "brandName": "Cyclinex-1 Powder",
+    "genericName": "Cyclinex-1 Powder"
+  },
+  {
+    "brandName": "Cyclinex-2 Powder",
+    "genericName": "Cyclinex-2 Powder"
+  },
+  {
+    "brandName": "Cycloset tablet",
+    "genericName": "bromocriptine mesylate tablets"
+  },
+  {
+    "brandName": "Cyltezo",
+    "genericName": "adalimumab-adbm solution"
+  },
+  {
+    "brandName": "Cymbalta",
+    "genericName": "duloxetine hcl"
+  },
+  {
+    "brandName": "Cyramza",
+    "genericName": "ramucirumab injection"
+  },
+  {
+    "brandName": "Cystadane",
+    "genericName": "betaine anhydrous"
+  },
+  {
+    "brandName": "Cystadrops ophthalmic solution",
+    "genericName": "cysteamine ophthalmic solution"
+  },
+  {
+    "brandName": "Cystagon",
+    "genericName": "cysteamine bitartrate)"
+  },
+  {
+    "brandName": "Cytra-K",
+    "genericName": "potassium citrate"
+  },
+  {
+    "brandName": "Dalvance Vials",
+    "genericName": "dalbavancin"
+  },
+  {
+    "brandName": "Danyelza",
+    "genericName": "naxitamab-gqgk"
+  },
+  {
+    "brandName": "Daraprim tablet",
+    "genericName": "pyrimethamine"
+  },
+  {
+    "brandName": "Darzalex",
+    "genericName": "daratumumab"
+  },
+  {
+    "brandName": "Darzelex Faspro",
+    "genericName": "daratumumab and hyaluronidase-fihj, Injection for subcutaneous use"
+  },
+  {
+    "brandName": "Daurismo",
+    "genericName": "glasdegib sodium"
+  },
+  {
+    "brandName": "Dayvigo",
+    "genericName": "lemborexant tablet"
+  },
+  {
+    "brandName": "Defitelio",
+    "genericName": "Defibrotide sodium"
+  },
+  {
+    "brandName": "Delstrigo",
+    "genericName": "doravirine, lamivudine, and tenofovir disoproxil fumarate"
+  },
+  {
+    "brandName": "Delzicol DR Capsules",
+    "genericName": "mesalamine"
+  },
+  {
+    "brandName": "Demser capsules",
+    "genericName": "metyrosine"
+  },
+  {
+    "brandName": "Denavir",
+    "genericName": "penciclovir"
+  },
+  {
+    "brandName": "Depakote",
+    "genericName": "divalproex"
+  },
+  {
+    "brandName": "Depakote ER Tablets",
+    "genericName": "divalproex sodium extended release tablets"
+  },
+  {
+    "brandName": "Depo Estradiol",
+    "genericName": "estrodiol cypionate in oil"
+  },
+  {
+    "brandName": "Descovy",
+    "genericName": "emtricitabine/tenofovir alafenamide"
+  },
+  {
+    "brandName": "Detrol",
+    "genericName": "tolterodine tartrate tablet"
+  },
+  {
+    "brandName": "Detrol LA",
+    "genericName": "tolterodine tartrate"
+  },
+  {
+    "brandName": "Dexcom G6 device",
+    "genericName": "glucose monitoring system device"
+  },
+  {
+    "brandName": "Dexilant",
+    "genericName": "dexlansoprazole"
+  },
+  {
+    "brandName": "Dextenza",
+    "genericName": "dexamethasone ophthalmic insert"
+  },
+  {
+    "brandName": "Dipentum",
+    "genericName": "olsalazine sodium capsules"
+  },
+  {
+    "brandName": "Dojolvi",
+    "genericName": "triheptanoin liquid; oral"
+  },
+  {
+    "brandName": "Doptelet",
+    "genericName": "avatrombopag"
+  },
+  {
+    "brandName": "Dovato",
+    "genericName": "dolutegravir and lamivudine"
+  },
+  {
+    "brandName": "Duavee Tablet",
+    "genericName": "conjugated estrogens/bazedoxifene"
+  },
+  {
+    "brandName": "Duobrii",
+    "genericName": "halobetasol propionate and tazarotene"
+  },
+  {
+    "brandName": "Duopa",
+    "genericName": "carbidopa/levodopa enteral suspension"
+  },
+  {
+    "brandName": "Dupixent",
+    "genericName": "dupilumab injection"
+  },
+  {
+    "brandName": "Durolane",
+    "genericName": "hyaluronic acid injection"
+  },
+  {
+    "brandName": "Durysta",
+    "genericName": "bimatoprost implant"
+  },
+  {
+    "brandName": "Dymista Nasal Spray",
+    "genericName": "azelastine/fluticasone propionate"
+  },
+  {
+    "brandName": "Dysport Injection",
+    "genericName": "abobotulinumtoxinA"
+  },
+  {
+    "brandName": "Edarbi Tablet",
+    "genericName": "azilsartan medoxomil"
+  },
+  {
+    "brandName": "Edarbyclor Tablet",
+    "genericName": "azilartan medoxomil/chlorthalidone"
+  },
+  {
+    "brandName": "Edurant",
+    "genericName": "rilpivirne"
+  },
+  {
+    "brandName": "Effexor XR",
+    "genericName": "venlafaxine"
+  },
+  {
+    "brandName": "Efudex",
+    "genericName": "fluorouracil"
+  },
+  {
+    "brandName": "EleCare",
+    "genericName": "EleCare"
+  },
+  {
+    "brandName": "EleCare Jr.",
+    "genericName": "medical food"
+  },
+  {
+    "brandName": "Elelyso",
+    "genericName": "taliglucerase alfa powder"
+  },
+  {
+    "brandName": "Elevidys",
+    "genericName": "delandistrogene moxeparvovec-rokl"
+  },
+  {
+    "brandName": "Elfabrio",
+    "genericName": "pegunigalsidase alfa-iwxj"
+  },
+  {
+    "brandName": "Elidel",
+    "genericName": "pimecrolimus"
+  },
+  {
+    "brandName": "Eligard",
+    "genericName": "leuprolide acetate"
+  },
+  {
+    "brandName": "Eliquis",
+    "genericName": "apixaban"
+  },
+  {
+    "brandName": "Elitek",
+    "genericName": "rasburicase"
+  },
+  {
+    "brandName": "Elmiron",
+    "genericName": "pentosan polysulfate sodium"
+  },
+  {
+    "brandName": "Eloctate Injection",
+    "genericName": "antihemophilic factor recombinant fc fusion protein"
+  },
+  {
+    "brandName": "Elrexfio",
+    "genericName": "elranatamab-bcmm"
+  },
+  {
+    "brandName": "Elzonris",
+    "genericName": "tagraxofusp-erzs injection"
+  },
+  {
+    "brandName": "EMEND",
+    "genericName": "aprepitant"
+  },
+  {
+    "brandName": "Emflaza",
+    "genericName": "deflazacort"
+  },
+  {
+    "brandName": "Emgality injection",
+    "genericName": "galcanezumab-gnlm"
+  },
+  {
+    "brandName": "Empaveli",
+    "genericName": "pegcetacoplan"
+  },
+  {
+    "brandName": "Empliciti",
+    "genericName": "elotuzumab"
+  },
+  {
+    "brandName": "EMSAM",
+    "genericName": "selegiline transdermal"
+  },
+  {
+    "brandName": "Emtriva",
+    "genericName": "emtricitabine"
+  },
+  {
+    "brandName": "Emverm",
+    "genericName": "mebendazole"
+  },
+  {
+    "brandName": "Enbrel",
+    "genericName": "etanercept"
+  },
+  {
+    "brandName": "Enfamil",
+    "genericName": "infant formula"
+  },
+  {
+    "brandName": "Engerix-B",
+    "genericName": "hepatitis B vaccine (recombinant)"
+  },
+  {
+    "brandName": "Enhertu",
+    "genericName": "fam-trastuzumab deruxtecan-nxki"
+  },
+  {
+    "brandName": "Enjaymo",
+    "genericName": "sutimlimab-jome"
+  },
+  {
+    "brandName": "Enspryng injection",
+    "genericName": "satralizumab-mwge"
+  },
+  {
+    "brandName": "Ensure",
+    "genericName": "Ensure"
+  },
+  {
+    "brandName": "Ensure Plus",
+    "genericName": "Ensure Plus"
+  },
+  {
+    "brandName": "Entresto",
+    "genericName": "sacubitril/valsartan"
+  },
+  {
+    "brandName": "Entyvio Injection",
+    "genericName": "vedolizumab"
+  },
+  {
+    "brandName": "Envarsus XR",
+    "genericName": "tacrolimus extended-release tablets"
+  },
+  {
+    "brandName": "Eohilia",
+    "genericName": "budesonide oral suspension"
+  },
+  {
+    "brandName": "Epclusa",
+    "genericName": "sofosbuvir/velpatasvir tablet"
+  },
+  {
+    "brandName": "Epidiolex",
+    "genericName": "cannabidiol"
+  },
+  {
+    "brandName": "Epinephrine auto injector .15mg",
+    "genericName": "epinephrine auto injector"
+  },
+  {
+    "brandName": "EpiPen",
+    "genericName": "epinephrine"
+  },
+  {
+    "brandName": "EpiPen Jr",
+    "genericName": "epinephrine"
+  },
+  {
+    "brandName": "Epivir",
+    "genericName": "lamivudine"
+  },
+  {
+    "brandName": "Eprontia",
+    "genericName": "topiramate solution"
+  },
+  {
+    "brandName": "Equetro",
+    "genericName": "carbamazepine"
+  },
+  {
+    "brandName": "Erbitux",
+    "genericName": "cetuximab"
+  },
+  {
+    "brandName": "Erivedge",
+    "genericName": "vismodegib"
+  },
+  {
+    "brandName": "Erleada Tablets",
+    "genericName": "apalutamide"
+  },
+  {
+    "brandName": "Ermeza",
+    "genericName": "levothyroxine sodium"
+  },
+  {
+    "brandName": "Esbriet",
+    "genericName": "pirfenidone"
+  },
+  {
+    "brandName": "Esperoct solution",
+    "genericName": "antihemophilic factor recombinant injection; iv lyophilized powder"
+  },
+  {
+    "brandName": "Estring",
+    "genericName": "estradiol vaginal ring"
+  },
+  {
+    "brandName": "Eucrisa",
+    "genericName": "crisaborole ointment"
+  },
+  {
+    "brandName": "Euflexxa",
+    "genericName": "sodium hyaluronate"
+  },
+  {
+    "brandName": "Evenity",
+    "genericName": "romosozumab"
+  },
+  {
+    "brandName": "Evista",
+    "genericName": "raloxifene tablet"
+  },
+  {
+    "brandName": "Evkeeza",
+    "genericName": "evinacumab-dgnb injection"
+  },
+  {
+    "brandName": "Evoclin",
+    "genericName": "clindamycin phosphate"
+  },
+  {
+    "brandName": "Evomela",
+    "genericName": "melphalan injection"
+  },
+  {
+    "brandName": "Evrysdi",
+    "genericName": "risdiplam"
+  },
+  {
+    "brandName": "Exjade",
+    "genericName": "deferasirox"
+  },
+  {
+    "brandName": "Exkivity",
+    "genericName": "mobocertinib"
+  },
+  {
+    "brandName": "Exondys 51",
+    "genericName": "eteplirsen injection"
+  },
+  {
+    "brandName": "Eylea HD",
+    "genericName": "aflibercept"
+  },
+  {
+    "brandName": "Eylea injection",
+    "genericName": "aflibercept"
+  },
+  {
+    "brandName": "Famvir",
+    "genericName": "famciclovir tablet"
+  },
+  {
+    "brandName": "Fanapt",
+    "genericName": "iloperidone"
+  },
+  {
+    "brandName": "Farxiga Tablet",
+    "genericName": "dapagliflozin"
+  },
+  {
+    "brandName": "Fasenra",
+    "genericName": "benralizumab"
+  },
+  {
+    "brandName": "Fasenra Pen",
+    "genericName": "benralizumab"
+  },
+  {
+    "brandName": "Faslodex",
+    "genericName": "fulvestrant"
+  },
+  {
+    "brandName": "Feiba VH powder",
+    "genericName": "coagulant complex inhibitor"
+  },
+  {
+    "brandName": "Felbatol",
+    "genericName": "felbamate"
+  },
+  {
+    "brandName": "Fensolvi",
+    "genericName": "leuprolide acetate"
+  },
+  {
+    "brandName": "Feraheme Injection",
+    "genericName": "ferumoxytol"
+  },
+  {
+    "brandName": "Ferriprox",
+    "genericName": "deferiprone"
+  },
+  {
+    "brandName": "Fetzima Extended Release Capsules",
+    "genericName": "levomilnacipran"
+  },
+  {
+    "brandName": "Fiasp",
+    "genericName": "insulin aspart injection"
+  },
+  {
+    "brandName": "Filspari",
+    "genericName": "sparsentan"
+  },
+  {
+    "brandName": "Fintepla",
+    "genericName": "fenfluramine"
+  },
+  {
+    "brandName": "Firdapse",
+    "genericName": "amifampridine tablet"
+  },
+  {
+    "brandName": "Flexeril",
+    "genericName": "Cyclobenzaprine"
+  },
+  {
+    "brandName": "Flumist Quadrivalent",
+    "genericName": "Influenza Vaccine Live, Intranasal"
+  },
+  {
+    "brandName": "Folotyn",
+    "genericName": "pralatrexate injection"
+  },
+  {
+    "brandName": "Forteo",
+    "genericName": "teriparatide"
+  },
+  {
+    "brandName": "Fosrenol",
+    "genericName": "lanthanum carbonate"
+  },
+  {
+    "brandName": "Fotivda",
+    "genericName": "tivozanib"
+  },
+  {
+    "brandName": "Fruzaqla",
+    "genericName": "fruquintinib"
+  },
+  {
+    "brandName": "Fulphila",
+    "genericName": "pegfilgrastim-jmdb"
+  },
+  {
+    "brandName": "Fuzeon",
+    "genericName": "enfuvirtide"
+  },
+  {
+    "brandName": "Fyarro injection",
+    "genericName": "sirolimus albumin-bound nanoparticles"
+  },
+  {
+    "brandName": "Fycompa Tablet",
+    "genericName": "perampanel"
+  },
+  {
+    "brandName": "Fylnetra",
+    "genericName": "pegfilgrastim-pbbk"
+  },
+  {
+    "brandName": "Galafold",
+    "genericName": "migalastat"
+  },
+  {
+    "brandName": "Galzin",
+    "genericName": "zinc acetate"
+  },
+  {
+    "brandName": "Gamifant",
+    "genericName": "emapalumab-lzsg"
+  },
+  {
+    "brandName": "Gammaplex iv",
+    "genericName": "immune globulin; intravenous iv"
+  },
+  {
+    "brandName": "Gamunex-C",
+    "genericName": "immune globulin; intravenous"
+  },
+  {
+    "brandName": "Gardasil 9",
+    "genericName": "human papillomavirus 9valent recombinant"
+  },
+  {
+    "brandName": "Gavreto",
+    "genericName": "pralsetinib"
+  },
+  {
+    "brandName": "Gazyva",
+    "genericName": "obinutuzumab"
+  },
+  {
+    "brandName": "Gelsyn-3",
+    "genericName": "3 injection hyaluronic acid"
+  },
+  {
+    "brandName": "Gengraf Capsules",
+    "genericName": "cyclosporine capsules, USP modified"
+  },
+  {
+    "brandName": "Genvoya",
+    "genericName": "elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide"
+  },
+  {
+    "brandName": "Gilenya",
+    "genericName": "fingolimod"
+  },
+  {
+    "brandName": "Gilotrif Tablet",
+    "genericName": "afatinib"
+  },
+  {
+    "brandName": "Gimoti",
+    "genericName": "metoclopramide"
+  },
+  {
+    "brandName": "Givlaari",
+    "genericName": "givosiran"
+  },
+  {
+    "brandName": "Glatiramer Acetate",
+    "genericName": "glatiramer acetate"
+  },
+  {
+    "brandName": "Gleevec",
+    "genericName": "imatinib mesylate"
+  },
+  {
+    "brandName": "Gleostine capsule",
+    "genericName": "lomustine"
+  },
+  {
+    "brandName": "Gliadel Wafer",
+    "genericName": "polifeprosan 20 with carmustine implant"
+  },
+  {
+    "brandName": "Glucerna 1.0 Cal",
+    "genericName": "glucerna"
+  },
+  {
+    "brandName": "Glucerna 1.2 Cal",
+    "genericName": "Glucerna"
+  },
+  {
+    "brandName": "Glucerna 1.5 Cal",
+    "genericName": "glucerna"
+  },
+  {
+    "brandName": "Glucerna Shake",
+    "genericName": "Glucerna Shake"
+  },
+  {
+    "brandName": "Glutarex-1 Powder",
+    "genericName": "Glutarex-1 Powder"
+  },
+  {
+    "brandName": "Glutarex-2 Powder",
+    "genericName": "Glutarex-2 Powder"
+  },
+  {
+    "brandName": "Glyxambi Tablet",
+    "genericName": "empagliflozin/linagliptin"
+  },
+  {
+    "brandName": "Gocovri",
+    "genericName": "amantadine; extended release capsule"
+  },
+  {
+    "brandName": "Granix Injection",
+    "genericName": "tbo-filgrastim"
+  },
+  {
+    "brandName": "Haegarda",
+    "genericName": "C1 esterase inhibitor human injection; subcutaneous"
+  },
+  {
+    "brandName": "Halaven Injection",
+    "genericName": "eribulin mesylate"
+  },
+  {
+    "brandName": "Harvoni tablet",
+    "genericName": "ledipasvir/sofosbuvir"
+  },
+  {
+    "brandName": "Hemady",
+    "genericName": "dexamethasone tablet"
+  },
+  {
+    "brandName": "Hemgenix",
+    "genericName": "etranacogene dezaparvovec-drlb injection"
+  },
+  {
+    "brandName": "Hemlibra",
+    "genericName": "emicizumab-kxwh"
+  },
+  {
+    "brandName": "Hemofil-M injection",
+    "genericName": "antihemophilic factor human"
+  },
+  {
+    "brandName": "Herceptin",
+    "genericName": "trastuzumab"
+  },
+  {
+    "brandName": "Herceptin Hylecta",
+    "genericName": "trastuzumab and hyaluronidase-oysk"
+  },
+  {
+    "brandName": "Herzuma",
+    "genericName": "trastuzumab-pkrb"
+  },
+  {
+    "brandName": "Hetlioz",
+    "genericName": "tasimelteon capsule"
+  },
+  {
+    "brandName": "Hi-Cal Drink",
+    "genericName": "nutritional supplement"
+  },
+  {
+    "brandName": "Hizentra vial 20%",
+    "genericName": "immune globulin subcutaneous (human)"
+  },
+  {
+    "brandName": "Hominex-1 Powder",
+    "genericName": "Hominex-1 Powder"
+  },
+  {
+    "brandName": "Hominex-2 Powder",
+    "genericName": "Hominex-2 Powder"
+  },
+  {
+    "brandName": "Horizant",
+    "genericName": "gabapentin enacarbil"
+  },
+  {
+    "brandName": "Humalog Injection",
+    "genericName": "insulin lispro injection"
+  },
+  {
+    "brandName": "Humalog KwikPen",
+    "genericName": "insulin lispro injection"
+  },
+  {
+    "brandName": "Humalog KwikPen Mix 50/50",
+    "genericName": "insulin lispro injection (rDNA)"
+  },
+  {
+    "brandName": "Humalog KwikPen Mix 75/25",
+    "genericName": "insulin lispro injection (rDNA)"
+  },
+  {
+    "brandName": "Humalog Mix 50/50",
+    "genericName": "50% Insulin Lispro Protamine Suspension, 50% Insulin Lispro Injection (rDNA)"
+  },
+  {
+    "brandName": "Humalog Mix 75/25",
+    "genericName": "human insulin lispro (rDNA)"
+  },
+  {
+    "brandName": "Humate-P",
+    "genericName": "antihemophilic factor/von willebrand factor complex (Human)"
+  },
+  {
+    "brandName": "HUMIRA",
+    "genericName": "adalimumab"
+  },
+  {
+    "brandName": "Humulin 70/30",
+    "genericName": "isophane human insulin (rDNA); human insulin (rDNA)"
+  },
+  {
+    "brandName": "Humulin N Injection",
+    "genericName": "NPH human insulin (rDNA)"
+  },
+  {
+    "brandName": "Humulin R Injection",
+    "genericName": "Regular human insulin (rDNA)"
+  },
+  {
+    "brandName": "Humulin R U-500 Injection; Concentrated",
+    "genericName": "regular insulin human [rDNA Origin]"
+  },
+  {
+    "brandName": "Hyalgan",
+    "genericName": "hyaluronate sodium"
+  },
+  {
+    "brandName": "HyperHEP B",
+    "genericName": "hepatitis B immune globulin human injection"
+  },
+  {
+    "brandName": "HyperRAB",
+    "genericName": "rabies immune globulin human injection"
+  },
+  {
+    "brandName": "HyperTET",
+    "genericName": "tetanus immune globulin human injection"
+  },
+  {
+    "brandName": "Hyrimoz",
+    "genericName": "adalimumab-adaz"
+  },
+  {
+    "brandName": "I-Valex-1 Powder",
+    "genericName": "I-Valex-1 Powder"
+  },
+  {
+    "brandName": "I-Valex-2 Powder",
+    "genericName": "I-Valex-2 Powder"
+  },
+  {
+    "brandName": "Ibrance",
+    "genericName": "palbociclib"
+  },
+  {
+    "brandName": "Iclusig",
+    "genericName": "ponatinib"
+  },
+  {
+    "brandName": "Idacio",
+    "genericName": "adalimumab-aacf"
+  },
+  {
+    "brandName": "Idelvion",
+    "genericName": "coagulation factor IX (recombinant), albumin fusion protein"
+  },
+  {
+    "brandName": "Idhifa",
+    "genericName": "enasidenib"
+  },
+  {
+    "brandName": "Ilaris",
+    "genericName": "canakinumab"
+  },
+  {
+    "brandName": "Ilumya",
+    "genericName": "tildrakizumab-asmn"
+  },
+  {
+    "brandName": "Iluvien",
+    "genericName": "fluocinolone acetonide intravitreal implant"
+  },
+  {
+    "brandName": "Imcivree",
+    "genericName": "setmelanotide injection; subcutaneous"
+  },
+  {
+    "brandName": "Imfinzi",
+    "genericName": "durvalumab"
+  },
+  {
+    "brandName": "Imjudo",
+    "genericName": "tremelimumab-actl"
+  },
+  {
+    "brandName": "Imlygic",
+    "genericName": "talimogene laherparepvec"
+  },
+  {
+    "brandName": "Imovax",
+    "genericName": "rabies vaccine"
+  },
+  {
+    "brandName": "Inbrija",
+    "genericName": "levodopa inhalation powder"
+  },
+  {
+    "brandName": "Increlex Injection",
+    "genericName": "mecasermin"
+  },
+  {
+    "brandName": "Incruse Ellipta",
+    "genericName": "umeclidinium inhalation powder"
+  },
+  {
+    "brandName": "InFed",
+    "genericName": "infed"
+  },
+  {
+    "brandName": "Inflectra",
+    "genericName": "infliximab-dyyb"
+  },
+  {
+    "brandName": "Ingrezza",
+    "genericName": "valbenazine"
+  },
+  {
+    "brandName": "Injectafer",
+    "genericName": "ferric carboxymaltose injection"
+  },
+  {
+    "brandName": "Inlyta",
+    "genericName": "axitinib"
+  },
+  {
+    "brandName": "Inqovi",
+    "genericName": "decitabine and cedazuridine"
+  },
+  {
+    "brandName": "Inrebic",
+    "genericName": "fedratinib"
+  },
+  {
+    "brandName": "Intelence",
+    "genericName": "etravirine"
+  },
+  {
+    "brandName": "Intuniv Extended Release Tablets",
+    "genericName": "guanfacine"
+  },
+  {
+    "brandName": "Invega Hafyera",
+    "genericName": "paliperidone palmitate"
+  },
+  {
+    "brandName": "Invega Sustenna",
+    "genericName": "paliperidone palmitate"
+  },
+  {
+    "brandName": "Invega Trinza",
+    "genericName": "paliperidone palmitate"
+  },
+  {
+    "brandName": "Invokamet",
+    "genericName": "canagliflozin-metformin"
+  },
+  {
+    "brandName": "Invokamet XR",
+    "genericName": "canagliflozin/metformin HCI"
+  },
+  {
+    "brandName": "Invokana",
+    "genericName": "canagliflozin"
+  },
+  {
+    "brandName": "Iressa",
+    "genericName": "gefitinib"
+  },
+  {
+    "brandName": "Isentress",
+    "genericName": "raltegravir"
+  },
+  {
+    "brandName": "Isentress HD tablet",
+    "genericName": "raltegravir"
+  },
+  {
+    "brandName": "Istodax injection",
+    "genericName": "romidepsin"
+  },
+  {
+    "brandName": "Isturisa tablet",
+    "genericName": "osilodrostat"
+  },
+  {
+    "brandName": "Jadenu Sprinkle granules",
+    "genericName": "deferasirox"
+  },
+  {
+    "brandName": "Jadenu Tablet",
+    "genericName": "deferasirox"
+  },
+  {
+    "brandName": "Jakafi Tablet",
+    "genericName": "ruxolitinib"
+  },
+  {
+    "brandName": "Janumet",
+    "genericName": "sitagliptin/metformin HCL"
+  },
+  {
+    "brandName": "Janumet XR",
+    "genericName": "sitagliptin/metformia HCI extended -release"
+  },
+  {
+    "brandName": "Januvia",
+    "genericName": "sitagliptin phosphate"
+  },
+  {
+    "brandName": "Jardiance Tablet",
+    "genericName": "empagliflozin"
+  },
+  {
+    "brandName": "Javygtor",
+    "genericName": "sapropterin"
+  },
+  {
+    "brandName": "Jaypirca",
+    "genericName": "pirtobrutinib"
+  },
+  {
+    "brandName": "Jelmyto",
+    "genericName": "mitomycin"
+  },
+  {
+    "brandName": "Jemperli",
+    "genericName": "dostarlimab"
+  },
+  {
+    "brandName": "Jentadueto tablet",
+    "genericName": "linagliptin/metformin HCI"
+  },
+  {
+    "brandName": "Jentadueto XR",
+    "genericName": "linagliptin and metformin hydrochloride extended-release"
+  },
+  {
+    "brandName": "Jevity 1 Cal",
+    "genericName": "Jevity 1 Cal"
+  },
+  {
+    "brandName": "Jevity 1.2 Cal",
+    "genericName": "Jevity 1.2 Cal"
+  },
+  {
+    "brandName": "Jevity 1.5 Cal",
+    "genericName": "Jevity 1.5 Cal"
+  },
+  {
+    "brandName": "Jevtana",
+    "genericName": "cabazitaxel"
+  },
+  {
+    "brandName": "Jivi",
+    "genericName": "antihemophilic factor (recombinant) PEGylated"
+  },
+  {
+    "brandName": "Joenja",
+    "genericName": "leniolisib"
+  },
+  {
+    "brandName": "Jublia",
+    "genericName": "efinaconazole"
+  },
+  {
+    "brandName": "Juluca",
+    "genericName": "dolutegravir and rilpivirine"
+  },
+  {
+    "brandName": "Jynarque",
+    "genericName": "tolvaptan"
+  },
+  {
+    "brandName": "Kadcyla",
+    "genericName": "ado-trastuzumab emtansine"
+  },
+  {
+    "brandName": "Kaletra tablets",
+    "genericName": "lopinavir/ritonavir capsules"
+  },
+  {
+    "brandName": "Kalydeco",
+    "genericName": "ivacaftor"
+  },
+  {
+    "brandName": "Kanjiniti",
+    "genericName": "trastuzumab-anns"
+  },
+  {
+    "brandName": "Kanuma",
+    "genericName": "sebelipase alfa"
+  },
+  {
+    "brandName": "Katerzia",
+    "genericName": "amlodipine oral suspension"
+  },
+  {
+    "brandName": "Kazano",
+    "genericName": "alogliptin and metformin HCL"
+  },
+  {
+    "brandName": "Keller Funnel 2",
+    "genericName": "surgical device"
+  },
+  {
+    "brandName": "Kerendia",
+    "genericName": "finerenone"
+  },
+  {
+    "brandName": "Kesimpta injection",
+    "genericName": "ofatumumab"
+  },
+  {
+    "brandName": "Ketonex-1 Powder",
+    "genericName": "Ketonex-1 Powder"
+  },
+  {
+    "brandName": "Ketonex-2 Powder",
+    "genericName": "Ketonex-2 Powder"
+  },
+  {
+    "brandName": "Keveyis tablet",
+    "genericName": "dichlorphenamide tablet"
+  },
+  {
+    "brandName": "Kevzara",
+    "genericName": "sarilumab"
+  },
+  {
+    "brandName": "Keytruda",
+    "genericName": "pembrolizumab"
+  },
+  {
+    "brandName": "Khapzory",
+    "genericName": "levoleucovorin injection"
+  },
+  {
+    "brandName": "Kimmtrak",
+    "genericName": "tebentafusp-tebn"
+  },
+  {
+    "brandName": "Kimyrsa",
+    "genericName": "oritavancin injection"
+  },
+  {
+    "brandName": "Kineret",
+    "genericName": "anakinra"
+  },
+  {
+    "brandName": "Kisqali",
+    "genericName": "ribociclib"
+  },
+  {
+    "brandName": "Kisqali Femara Co-Pack tablets",
+    "genericName": "ribociclib and letrozole"
+  },
+  {
+    "brandName": "Klor-Con 8mEQ",
+    "genericName": "potassium chloride ER tablet"
+  },
+  {
+    "brandName": "Klor-Con M10",
+    "genericName": "potassium chloride ER tablet"
+  },
+  {
+    "brandName": "Konvomep",
+    "genericName": "omeprazole-sodium bicarbonate"
+  },
+  {
+    "brandName": "Korlym tablets",
+    "genericName": "mifepristone"
+  },
+  {
+    "brandName": "Koselugo",
+    "genericName": "selumetinib"
+  },
+  {
+    "brandName": "Kovaltry",
+    "genericName": "antihemophilic factor (recombinant)"
+  },
+  {
+    "brandName": "Krazati",
+    "genericName": "adagrasib"
+  },
+  {
+    "brandName": "Krystexxa IV",
+    "genericName": "pegloticase"
+  },
+  {
+    "brandName": "Kuvan",
+    "genericName": "sapropterin dihydrochloride"
+  },
+  {
+    "brandName": "Kyleena",
+    "genericName": "levonorgestrel-releasing intrauterine system"
+  },
+  {
+    "brandName": "Kyprolis Injection",
+    "genericName": "carfilzomib"
+  },
+  {
+    "brandName": "Lacrisert Ophthalmic insert",
+    "genericName": "hydroxypropyl cellulose opthalmic insert"
+  },
+  {
+    "brandName": "Lamictal",
+    "genericName": "lamotrigine"
+  },
+  {
+    "brandName": "Lamictal ODT (patient titration kits)",
+    "genericName": "lamotrigine"
+  },
+  {
+    "brandName": "Lamictal Starter Kits",
+    "genericName": "lamotrigine"
+  },
+  {
+    "brandName": "Lamictal XR",
+    "genericName": "lamotrigine"
+  },
+  {
+    "brandName": "LAMICTAL XR Patient Titration Kits",
+    "genericName": "lamotrigine"
+  },
+  {
+    "brandName": "Lampit",
+    "genericName": "nifurtimox tablets"
+  },
+  {
+    "brandName": "Lamzede",
+    "genericName": "velmanase alfa-tycv injection"
+  },
+  {
+    "brandName": "Lantus",
+    "genericName": "insulin glargine"
+  },
+  {
+    "brandName": "Lantus (SoloStar pen)",
+    "genericName": "insulin glargine"
+  },
+  {
+    "brandName": "Lemtrada",
+    "genericName": "alemtuzumab"
+  },
+  {
+    "brandName": "Lenvima",
+    "genericName": "lenvatinib"
+  },
+  {
+    "brandName": "Leqembi",
+    "genericName": "lecanemab-irmb"
+  },
+  {
+    "brandName": "Leqvio",
+    "genericName": "inclisiran injection"
+  },
+  {
+    "brandName": "Letairis Tablets",
+    "genericName": "ambrisentan"
+  },
+  {
+    "brandName": "Leukine",
+    "genericName": "sargramostim"
+  },
+  {
+    "brandName": "Lialda",
+    "genericName": "mesalamine"
+  },
+  {
+    "brandName": "Libtayo injection",
+    "genericName": "cemiplimab-rwlc"
+  },
+  {
+    "brandName": "Linzess Capsules",
+    "genericName": "linaclotide"
+  },
+  {
+    "brandName": "Lioresal",
+    "genericName": "baclofen tablet"
+  },
+  {
+    "brandName": "Litfulo",
+    "genericName": "ritlecitinib"
+  },
+  {
+    "brandName": "Livalo",
+    "genericName": "pitavastatin"
+  },
+  {
+    "brandName": "Livtencity",
+    "genericName": "maribavir"
+  },
+  {
+    "brandName": "Locametz",
+    "genericName": "gallium Ga 68 gozetotide"
+  },
+  {
+    "brandName": "Locoid Lipocream",
+    "genericName": "hydrocortisone"
+  },
+  {
+    "brandName": "Locoid Lotion .1%",
+    "genericName": "hydrocortisone butyrate"
+  },
+  {
+    "brandName": "Lokelma",
+    "genericName": "sodium zirconium cyclosilicate"
+  },
+  {
+    "brandName": "Lonsurf",
+    "genericName": "trifluridine and tipiracil"
+  },
+  {
+    "brandName": "Loqtorzi",
+    "genericName": "toripalimab-tpzi"
+  },
+  {
+    "brandName": "Lorbrena",
+    "genericName": "lorlatinib"
+  },
+  {
+    "brandName": "Lotronex",
+    "genericName": "alosetron HCL"
+  },
+  {
+    "brandName": "Lovenox",
+    "genericName": "enoxaparin sodium"
+  },
+  {
+    "brandName": "Lucemyra",
+    "genericName": "lofexidine tablet"
+  },
+  {
+    "brandName": "Lucentis",
+    "genericName": "ranibizumab injection"
+  },
+  {
+    "brandName": "Lumakras",
+    "genericName": "sotorasib"
+  },
+  {
+    "brandName": "Lumigan",
+    "genericName": "bimatoprost ophthalmic solution"
+  },
+  {
+    "brandName": "Lunsumio",
+    "genericName": "mosunetuzumab-axgb"
+  },
+  {
+    "brandName": "Lupkynis",
+    "genericName": "voclosporin"
+  },
+  {
+    "brandName": "Lupron Depot",
+    "genericName": "leuprolide acetate"
+  },
+  {
+    "brandName": "Lupron Depot (ped)",
+    "genericName": "leuprolide acetate for depot supspension"
+  },
+  {
+    "brandName": "Lutathera",
+    "genericName": "lutetium Lu 177 dotatate"
+  },
+  {
+    "brandName": "Luxiq",
+    "genericName": "betamethasone valerate"
+  },
+  {
+    "brandName": "Luxturna",
+    "genericName": "voretigene neparvovec-rzyl"
+  },
+  {
+    "brandName": "Luzu Cream",
+    "genericName": "luliconazole"
+  },
+  {
+    "brandName": "Lybalvi",
+    "genericName": "olanzapone and samidorphan tablet"
+  },
+  {
+    "brandName": "Lynparza",
+    "genericName": "olaparib"
+  },
+  {
+    "brandName": "Lynparza Capsule",
+    "genericName": "olaparib"
+  },
+  {
+    "brandName": "Lytgobi",
+    "genericName": "futibatinib"
+  },
+  {
+    "brandName": "Lyumjev",
+    "genericName": "insulin lispro-aabc injection"
+  },
+  {
+    "brandName": "Lyvispah",
+    "genericName": "baclofen"
+  },
+  {
+    "brandName": "M-M-R ll",
+    "genericName": "measles, mumps, and rubella virus vaccine live"
+  },
+  {
+    "brandName": "Malarone tablets",
+    "genericName": "atovaquone and proguanil hcl"
+  },
+  {
+    "brandName": "Margenza",
+    "genericName": "margetuximab-cmkb"
+  },
+  {
+    "brandName": "Mavenclad",
+    "genericName": "cladribine tablet"
+  },
+  {
+    "brandName": "Mavyret",
+    "genericName": "glecaprevir/pibrentasvir"
+  },
+  {
+    "brandName": "Mayzent",
+    "genericName": "siponimod"
+  },
+  {
+    "brandName": "Mekinist",
+    "genericName": "trametinib"
+  },
+  {
+    "brandName": "Mektovi tablets",
+    "genericName": "binimetinib"
+  },
+  {
+    "brandName": "Menostar",
+    "genericName": "estradiol transdermal system"
+  },
+  {
+    "brandName": "MenQuadfi",
+    "genericName": "meningococcal"
+  },
+  {
+    "brandName": "Mephyton tablets",
+    "genericName": "phytonadione"
+  },
+  {
+    "brandName": "Mepron suspension",
+    "genericName": "atovaquone"
+  },
+  {
+    "brandName": "Mepsevii",
+    "genericName": "vestronidase alfa-vjbk injection"
+  },
+  {
+    "brandName": "Miacalcin",
+    "genericName": "calcitonin-salmon"
+  },
+  {
+    "brandName": "Miebo",
+    "genericName": "perfluorohexyloctane ophthalmic solution"
+  },
+  {
+    "brandName": "Mirena",
+    "genericName": "levonorgestrel-releasing intrauterine system"
+  },
+  {
+    "brandName": "Monjuvi",
+    "genericName": "tafasitamab-cxix injection"
+  },
+  {
+    "brandName": "Monoferric",
+    "genericName": "ferric derisomaltose"
+  },
+  {
+    "brandName": "Mononine",
+    "genericName": "Coagulation Factor IX (Human) Monoclonal Antibody Purified"
+  },
+  {
+    "brandName": "Monovisc",
+    "genericName": "sodium hyaluronate"
+  },
+  {
+    "brandName": "Motegrity",
+    "genericName": "prucalopride"
+  },
+  {
+    "brandName": "MoviPrep",
+    "genericName": "polyethylene glycol 3350, sodium sulfate, sodium chloride, potassium chloride, sodium ascorbate, and ascorbic acid for oral solution"
+  },
+  {
+    "brandName": "Mozobil",
+    "genericName": "plerixafor injection"
+  },
+  {
+    "brandName": "Multaq",
+    "genericName": "dronedarone tablets"
+  },
+  {
+    "brandName": "Muse",
+    "genericName": "Alprostadil"
+  },
+  {
+    "brandName": "Mvasi",
+    "genericName": "bevacizumab-awwb"
+  },
+  {
+    "brandName": "Mycapssa capsule",
+    "genericName": "octreotide"
+  },
+  {
+    "brandName": "Myfembree",
+    "genericName": "relugolix, estradiol, and norethindrone acetate"
+  },
+  {
+    "brandName": "Mylotarg",
+    "genericName": "gemtuzumab"
+  },
+  {
+    "brandName": "Myobloc Injection",
+    "genericName": "rimabotulinumtoxinB"
+  },
+  {
+    "brandName": "Myrbetriq",
+    "genericName": "mirabegron"
+  },
+  {
+    "brandName": "Mytesi tablet; delayed-release",
+    "genericName": "crofelemer"
+  },
+  {
+    "brandName": "Naglazyme",
+    "genericName": "galsulfase"
+  },
+  {
+    "brandName": "Namzaric Capsules",
+    "genericName": "memantine hydrochloride extended-_release and donepezil _hydrochloride"
+  },
+  {
+    "brandName": "Nardil",
+    "genericName": "phenelzine sulfate"
+  },
+  {
+    "brandName": "Natazia",
+    "genericName": "estradiol valerate and estradiol valerate/dienogest"
+  },
+  {
+    "brandName": "Natrelle",
+    "genericName": "breast implant"
+  },
+  {
+    "brandName": "Nayzilam",
+    "genericName": "midazolam"
+  },
+  {
+    "brandName": "Neocate",
+    "genericName": "medical food"
+  },
+  {
+    "brandName": "Nepro with Carb Steady",
+    "genericName": "Nepro"
+  },
+  {
+    "brandName": "Nerlynx",
+    "genericName": "neratinib maleate"
+  },
+  {
+    "brandName": "Nesina",
+    "genericName": "alogliptin"
+  },
+  {
+    "brandName": "Netspot",
+    "genericName": "gallium Ga 68 dotatate"
+  },
+  {
+    "brandName": "Neulasta Onpro",
+    "genericName": "pegfilgrastim"
+  },
+  {
+    "brandName": "Neupogen",
+    "genericName": "filgrastim"
+  },
+  {
+    "brandName": "Neupro Transdermal System",
+    "genericName": "rotigotine"
+  },
+  {
+    "brandName": "Ninlaro",
+    "genericName": "ixazomib"
+  },
+  {
+    "brandName": "Nityr",
+    "genericName": "nitisinone tablet"
+  },
+  {
+    "brandName": "Norditropin FlexPro Injection",
+    "genericName": "somatropin (rDNA origin)"
+  },
+  {
+    "brandName": "Noritate Cream",
+    "genericName": "metronidazole"
+  },
+  {
+    "brandName": "Norpace",
+    "genericName": "disopyramide"
+  },
+  {
+    "brandName": "Norvir Tablets",
+    "genericName": "ritonavir tablets"
+  },
+  {
+    "brandName": "Nourianz",
+    "genericName": "istradefylline tablet"
+  },
+  {
+    "brandName": "Novoeight vial",
+    "genericName": "antihemophilic factor (recombinant) vial"
+  },
+  {
+    "brandName": "NovoFine 30G",
+    "genericName": "needles"
+  },
+  {
+    "brandName": "Novolin 70/30 Vials",
+    "genericName": "insulin (rDNA)"
+  },
+  {
+    "brandName": "Novolin N Vials",
+    "genericName": "70% NPH/30% regular human insulin (rDNA)"
+  },
+  {
+    "brandName": "Novolin R Vials",
+    "genericName": "regular, human insulin injection (rDNA)"
+  },
+  {
+    "brandName": "NovoLog",
+    "genericName": "insulin analog injection"
+  },
+  {
+    "brandName": "NovoLog Mix  70/30",
+    "genericName": "insulin analog injection"
+  },
+  {
+    "brandName": "NovoSeven RT injection",
+    "genericName": "coagulation factor viia (recombinant)"
+  },
+  {
+    "brandName": "Noxafil",
+    "genericName": "posaconazole"
+  },
+  {
+    "brandName": "Nplate",
+    "genericName": "romiplostim"
+  },
+  {
+    "brandName": "Nubeqa",
+    "genericName": "darolutamide"
+  },
+  {
+    "brandName": "Nucala",
+    "genericName": "mepolizumab"
+  },
+  {
+    "brandName": "Nuedexta",
+    "genericName": "dextromethorpan hydrobromide/quinidine sulfate"
+  },
+  {
+    "brandName": "Nulibry",
+    "genericName": "fosdenopterin"
+  },
+  {
+    "brandName": "Nulojix",
+    "genericName": "belatacept"
+  },
+  {
+    "brandName": "Nuplazid",
+    "genericName": "pimavanserin"
+  },
+  {
+    "brandName": "NuShield",
+    "genericName": "wound dressing"
+  },
+  {
+    "brandName": "Nutropin AQ",
+    "genericName": "somatropin (rDNA) injection"
+  },
+  {
+    "brandName": "Nuzyra",
+    "genericName": "omadacycline"
+  },
+  {
+    "brandName": "Ocaliva",
+    "genericName": "obeticholic acid tablet"
+  },
+  {
+    "brandName": "Ocrevus",
+    "genericName": "ocrelizumab"
+  },
+  {
+    "brandName": "Odefsey",
+    "genericName": "emtricitabine/rilpivirine/tenofovir alafenamide"
+  },
+  {
+    "brandName": "Odomzo",
+    "genericName": "sonidegib"
+  },
+  {
+    "brandName": "Ofev Capsule",
+    "genericName": "nintedanib"
+  },
+  {
+    "brandName": "Ogivri",
+    "genericName": "trastuzumab-dkst injection"
+  },
+  {
+    "brandName": "Ogsiveo",
+    "genericName": "nirogacestat tablet"
+  },
+  {
+    "brandName": "Ojjaara",
+    "genericName": "momelotinib"
+  },
+  {
+    "brandName": "Olpruva suspension",
+    "genericName": "sodium phenylbutyrate suspension"
+  },
+  {
+    "brandName": "Olumiant",
+    "genericName": "baricitinib"
+  },
+  {
+    "brandName": "Omidria solution",
+    "genericName": "phenylephrine/ketorolac tromethamine solution"
+  },
+  {
+    "brandName": "Oncaspar",
+    "genericName": "pegaspargase"
+  },
+  {
+    "brandName": "Onexton Gel",
+    "genericName": "clindamycin phosphate and benzoyl peroxide"
+  },
+  {
+    "brandName": "Ongentys capsule",
+    "genericName": "opicapone"
+  },
+  {
+    "brandName": "Onivyde injection",
+    "genericName": "irinotecan liposome"
+  },
+  {
+    "brandName": "Onpattro",
+    "genericName": "patisiran"
+  },
+  {
+    "brandName": "Ontruzant",
+    "genericName": "trastuzumab-dttb injection; iv"
+  },
+  {
+    "brandName": "Onureg",
+    "genericName": "azacitidine tablet"
+  },
+  {
+    "brandName": "Opdivo   Yervoy",
+    "genericName": "nivolumab   ipilimumab"
+  },
+  {
+    "brandName": "Opdivo Injection",
+    "genericName": "nivolumab"
+  },
+  {
+    "brandName": "Opdualag",
+    "genericName": "nivolumab and relatlimab-rmbw"
+  },
+  {
+    "brandName": "Opfolda",
+    "genericName": "miglustat"
+  },
+  {
+    "brandName": "Opsumit Tablet",
+    "genericName": "macitentan"
+  },
+  {
+    "brandName": "Opzelura cream",
+    "genericName": "ruxolitinib cream; topical"
+  },
+  {
+    "brandName": "Orbactiv",
+    "genericName": "oritavancin"
+  },
+  {
+    "brandName": "Orencia",
+    "genericName": "abatacept"
+  },
+  {
+    "brandName": "Orenitram tablet; extended release",
+    "genericName": "treprostinil"
+  },
+  {
+    "brandName": "Orfadin",
+    "genericName": "nitisinone"
+  },
+  {
+    "brandName": "Orgovyx",
+    "genericName": "relugolix"
+  },
+  {
+    "brandName": "Oriahnn",
+    "genericName": "elagolix/estradiol/norethindrone acetate and elagolix"
+  },
+  {
+    "brandName": "Orilissa",
+    "genericName": "elagolix"
+  },
+  {
+    "brandName": "Orkambi",
+    "genericName": "lumacaftor/ivacaftor"
+  },
+  {
+    "brandName": "Orladeyo",
+    "genericName": "berotralstat"
+  },
+  {
+    "brandName": "Orserdu",
+    "genericName": "elacestrant"
+  },
+  {
+    "brandName": "Orthovisc",
+    "genericName": "hyaluronan"
+  },
+  {
+    "brandName": "Oseni",
+    "genericName": "alogliptin and pioglitazone"
+  },
+  {
+    "brandName": "Osmolex ER",
+    "genericName": "amantadine"
+  },
+  {
+    "brandName": "Osmolite 1 Cal",
+    "genericName": "Osmolite 1 Cal"
+  },
+  {
+    "brandName": "Osmolite 1.2 Cal",
+    "genericName": "Osmolite 1.2 Cal"
+  },
+  {
+    "brandName": "Osmolite 1.5 Cal",
+    "genericName": "Osmolite 1.5 Cal"
+  },
+  {
+    "brandName": "Otezla Tablet",
+    "genericName": "apremilast"
+  },
+  {
+    "brandName": "Oxbryta",
+    "genericName": "voxelotor"
+  },
+  {
+    "brandName": "Oxervate",
+    "genericName": "cenegermin-BKBJ ophthalmic solution"
+  },
+  {
+    "brandName": "Oxlumo injection; subcutaneous",
+    "genericName": "lumasiran injection"
+  },
+  {
+    "brandName": "Oxtellar XR Tablet",
+    "genericName": "oxcarbazepine"
+  },
+  {
+    "brandName": "Ozempic",
+    "genericName": "semaglutide"
+  },
+  {
+    "brandName": "Ozurdex",
+    "genericName": "dexamethasone intravitreal implant 0.7mg"
+  },
+  {
+    "brandName": "Padcev",
+    "genericName": "enfortumab vedotin-ejfv"
+  },
+  {
+    "brandName": "Palforzia",
+    "genericName": "archis hypogaea"
+  },
+  {
+    "brandName": "Palynziq",
+    "genericName": "pegvaliase-pqpz"
+  },
+  {
+    "brandName": "Panhematin Injection",
+    "genericName": "hemin"
+  },
+  {
+    "brandName": "Parsabiv",
+    "genericName": "etelcalcetide"
+  },
+  {
+    "brandName": "PediaSure",
+    "genericName": "PediaSure"
+  },
+  {
+    "brandName": "PediaSure 1.5 cal",
+    "genericName": "pediasure 1.5 cal"
+  },
+  {
+    "brandName": "PediaSure Enteral 1.0 Cal",
+    "genericName": "PediaSure Enteral 1.0 Cal"
+  },
+  {
+    "brandName": "PediaSure Enteral Formula with Fiber",
+    "genericName": "PediaSure Enteral Formula with Fiber"
+  },
+  {
+    "brandName": "PediaSure Harvest",
+    "genericName": "pediasure harvest"
+  },
+  {
+    "brandName": "PediaSure Peptide 1.0 cal",
+    "genericName": "PediaSure Peptide 1.0 cal"
+  },
+  {
+    "brandName": "PediaSure Peptide 1.5 cal",
+    "genericName": "PediaSure Peptide 1.5 cal"
+  },
+  {
+    "brandName": "PediaSure with Fiber",
+    "genericName": "PediaSure with Fiber"
+  },
+  {
+    "brandName": "Pemazyre",
+    "genericName": "pemigatinib"
+  },
+  {
+    "brandName": "Pemfexy",
+    "genericName": "pemetrexed injection"
+  },
+  {
+    "brandName": "Pentacel",
+    "genericName": "Diptheria and Tetanus Toxoids and Acellular Pertussis Adsorbed, Inactivated Poliovirus and Haemophilus b Conjugate (Tetanus Toxoid Conjugate) Vaccine"
+  },
+  {
+    "brandName": "Pentasa",
+    "genericName": "mesalamine"
+  },
+  {
+    "brandName": "Perative",
+    "genericName": "Perative"
+  },
+  {
+    "brandName": "Perforomist",
+    "genericName": "formoterol fumarate"
+  },
+  {
+    "brandName": "PERJETA",
+    "genericName": "pertuzumab"
+  },
+  {
+    "brandName": "Pertzye capsule",
+    "genericName": "amylase/lipase/pancrelipase/protease"
+  },
+  {
+    "brandName": "Phenex-1 Powder",
+    "genericName": "Phenex-1 Powder"
+  },
+  {
+    "brandName": "Phenex-2 Powder",
+    "genericName": "Phenex-2 Powder"
+  },
+  {
+    "brandName": "Phesgo",
+    "genericName": "pertuzumab, trastuzumab, and hyaluronidase-zzxf"
+  },
+  {
+    "brandName": "Pifeltro",
+    "genericName": "doravirine"
+  },
+  {
+    "brandName": "Piqray",
+    "genericName": "alpelisib"
+  },
+  {
+    "brandName": "Pivot 1.5 cal Drink",
+    "genericName": "medical drink"
+  },
+  {
+    "brandName": "Plegridy Injection",
+    "genericName": "peginterferon beta1a"
+  },
+  {
+    "brandName": "Plenvu",
+    "genericName": "polyethylene glycol 3350, sodium ascorbate, sodium sulfate, ascorbic acid, sodium chloride and potassium chloride"
+  },
+  {
+    "brandName": "Pluvicto",
+    "genericName": "lutetium LU 177 vipivotide tetraxetan injection"
+  },
+  {
+    "brandName": "Pneumovax 23",
+    "genericName": "pneumococcal vaccine polyvalent"
+  },
+  {
+    "brandName": "Polivy",
+    "genericName": "polatuzumab vedotin-piiq"
+  },
+  {
+    "brandName": "Pomalyst capsule",
+    "genericName": "pomalidomide"
+  },
+  {
+    "brandName": "Pombiliti",
+    "genericName": "cipaglucosidase alfa-atga"
+  },
+  {
+    "brandName": "Ponvory",
+    "genericName": "ponesimod tablets"
+  },
+  {
+    "brandName": "Portrazza",
+    "genericName": "necitumumab"
+  },
+  {
+    "brandName": "Poteligeo",
+    "genericName": "mogamulizumab-KPKC"
+  },
+  {
+    "brandName": "Praluent",
+    "genericName": "alirocumab"
+  },
+  {
+    "brandName": "Premarin",
+    "genericName": "conjugated estrogens"
+  },
+  {
+    "brandName": "Premphase",
+    "genericName": "conjugated estrogens/medroxyprogesterone acetate tablets"
+  },
+  {
+    "brandName": "Prempro",
+    "genericName": "conjugated estrogens; medroxyprogesterone acetate"
+  },
+  {
+    "brandName": "Pretomanid",
+    "genericName": "pretomanid"
+  },
+  {
+    "brandName": "Prevacid SoluTab",
+    "genericName": "lansoprazole"
+  },
+  {
+    "brandName": "Prevnar 20",
+    "genericName": "pneumococcal 20-valent conjugate vaccine [Diphtheria CRM197 Protein]"
+  },
+  {
+    "brandName": "Prevymis",
+    "genericName": "letermovir"
+  },
+  {
+    "brandName": "Prezcobix Tablets",
+    "genericName": "darunavir/cobicistat"
+  },
+  {
+    "brandName": "Prezista",
+    "genericName": "darunavir"
+  },
+  {
+    "brandName": "Prialt",
+    "genericName": "ziconotide infusion"
+  },
+  {
+    "brandName": "Priftin",
+    "genericName": "rifapentine tablets"
+  },
+  {
+    "brandName": "Primaxin injection",
+    "genericName": "impenem-cilastatin"
+  },
+  {
+    "brandName": "Privigen vial 10%",
+    "genericName": "immune globulin intravenous (human)"
+  },
+  {
+    "brandName": "Proctofoam",
+    "genericName": "hydrocortisone-pramoxine"
+  },
+  {
+    "brandName": "Procysbi",
+    "genericName": "cysteamine bitartrate delayed-release capsule"
+  },
+  {
+    "brandName": "Prodigy Insulin Syringes",
+    "genericName": "Insulin Syringes"
+  },
+  {
+    "brandName": "Prodigy No Coding Blood Glucose Strips",
+    "genericName": "blood glucose strips"
+  },
+  {
+    "brandName": "Prodigy Preferred Blood Glucose Monitor",
+    "genericName": "blood glucose monitor"
+  },
+  {
+    "brandName": "Prodigy Twist Top Lancets 28G",
+    "genericName": "lancets"
+  },
+  {
+    "brandName": "Proglycem oral suspension",
+    "genericName": "diazoxide"
+  },
+  {
+    "brandName": "Prolastin C",
+    "genericName": "alpha1-proteinase inhibitor (human)"
+  },
+  {
+    "brandName": "Prolensa",
+    "genericName": "bromfenac sodium solution"
+  },
+  {
+    "brandName": "Prolia",
+    "genericName": "denosumab"
+  },
+  {
+    "brandName": "Promacta",
+    "genericName": "eltrombopag"
+  },
+  {
+    "brandName": "Promote",
+    "genericName": "Promote"
+  },
+  {
+    "brandName": "Promote with Fiber",
+    "genericName": "Promote with Fiber"
+  },
+  {
+    "brandName": "Propimex-1 Powder",
+    "genericName": "Propimex-1 Powder"
+  },
+  {
+    "brandName": "Propimex-2 Powder",
+    "genericName": "Propimex-2 Powder"
+  },
+  {
+    "brandName": "Provenge",
+    "genericName": "sipuleucel-t"
+  },
+  {
+    "brandName": "ProViMin Powder",
+    "genericName": "ProViMin Powder"
+  },
+  {
+    "brandName": "Prozac",
+    "genericName": "fluoxetine HCL"
+  },
+  {
+    "brandName": "Prozac Weekly",
+    "genericName": "fluoxetine HCL"
+  },
+  {
+    "brandName": "Pulmocare",
+    "genericName": "Pulmocare"
+  },
+  {
+    "brandName": "Pulmozyme",
+    "genericName": "dornase alfa recombinant inhalation solution"
+  },
+  {
+    "brandName": "PuraPly AM Wound Dressing",
+    "genericName": "wound matrix"
+  },
+  {
+    "brandName": "PuraPly Wound Dressing",
+    "genericName": "wound matrix"
+  },
+  {
+    "brandName": "Pyrimethamine",
+    "genericName": "pyrimethamine"
+  },
+  {
+    "brandName": "Pyrukynd",
+    "genericName": "mitapivat"
+  },
+  {
+    "brandName": "Qalsody",
+    "genericName": "tofersen"
+  },
+  {
+    "brandName": "Qbrelis",
+    "genericName": "lisinopril oral solution"
+  },
+  {
+    "brandName": "Qelbree capsule",
+    "genericName": "viloxazine"
+  },
+  {
+    "brandName": "Qinlock",
+    "genericName": "ripretinib tablet"
+  },
+  {
+    "brandName": "Qulipta",
+    "genericName": "atogepant"
+  },
+  {
+    "brandName": "Qutenza Patch",
+    "genericName": "capsaicin"
+  },
+  {
+    "brandName": "Quzyttir",
+    "genericName": "cetirizine"
+  },
+  {
+    "brandName": "Radicava iv",
+    "genericName": "edaravone iv"
+  },
+  {
+    "brandName": "Radicava ORS",
+    "genericName": "edaravone oral suspension"
+  },
+  {
+    "brandName": "Rasuvo injection",
+    "genericName": "methotrexate injection"
+  },
+  {
+    "brandName": "Ravicti Liquid",
+    "genericName": "glycerol phenylbutyrate"
+  },
+  {
+    "brandName": "Rayaldee",
+    "genericName": "calcifediol"
+  },
+  {
+    "brandName": "RCF (Ross Carbohydrate Free)",
+    "genericName": "RCF (Ross Carbohydrate Free)"
+  },
+  {
+    "brandName": "Rebif subcutaneous",
+    "genericName": "interferon beta-1a"
+  },
+  {
+    "brandName": "Rebinyn",
+    "genericName": "coagulation factor IX (recombinant) glycopegylated"
+  },
+  {
+    "brandName": "Reblozyl",
+    "genericName": "luspatercept-aamt"
+  },
+  {
+    "brandName": "Recarbrio",
+    "genericName": "imipenem cilastatin and relebactam injection"
+  },
+  {
+    "brandName": "Recombinate rAHF",
+    "genericName": "recominant"
+  },
+  {
+    "brandName": "Recombivax Hb",
+    "genericName": "Hepatitis B vaccine (recombinant)"
+  },
+  {
+    "brandName": "Recorlev",
+    "genericName": "levoketoconazole"
+  },
+  {
+    "brandName": "Rectiv ointment",
+    "genericName": "nitroglycerin"
+  },
+  {
+    "brandName": "Regranex",
+    "genericName": "becaplermin"
+  },
+  {
+    "brandName": "Relenza",
+    "genericName": "zanamivir for inhalation"
+  },
+  {
+    "brandName": "Releuko",
+    "genericName": "filgrastim-ayow"
+  },
+  {
+    "brandName": "Relistor injection",
+    "genericName": "methylnaltrexone bromide"
+  },
+  {
+    "brandName": "Relistor tablets",
+    "genericName": "methylnaltrexone bromide"
+  },
+  {
+    "brandName": "Relizorb",
+    "genericName": "immobilized lipase cartridge"
+  },
+  {
+    "brandName": "Relpax",
+    "genericName": "eletriptan HBr"
+  },
+  {
+    "brandName": "Relyvrio",
+    "genericName": "sodium phenylbutyrate and taurursodiol"
+  },
+  {
+    "brandName": "Remicade",
+    "genericName": "infliximab"
+  },
+  {
+    "brandName": "Remodulin injection",
+    "genericName": "treprostinil"
+  },
+  {
+    "brandName": "Renflexis",
+    "genericName": "infliximab-ABDA"
+  },
+  {
+    "brandName": "Renova",
+    "genericName": "tretinoin cream"
+  },
+  {
+    "brandName": "Repatha",
+    "genericName": "evolocumab"
+  },
+  {
+    "brandName": "Restasis",
+    "genericName": "cyclosporine"
+  },
+  {
+    "brandName": "Retacrit",
+    "genericName": "epoetin alfa-epbx"
+  },
+  {
+    "brandName": "Retevmo",
+    "genericName": "selpercatinib"
+  },
+  {
+    "brandName": "Retin-A Cream",
+    "genericName": "tretinoin"
+  },
+  {
+    "brandName": "Retin-A Gel",
+    "genericName": "tretinoin"
+  },
+  {
+    "brandName": "Retin-A Micro",
+    "genericName": "tretinoin"
+  },
+  {
+    "brandName": "Retisert",
+    "genericName": "fluocinolone acetonide  intravitreal implant"
+  },
+  {
+    "brandName": "Retrovir",
+    "genericName": "zidovudine"
+  },
+  {
+    "brandName": "Revcovi",
+    "genericName": "elapegademase-lvlr"
+  },
+  {
+    "brandName": "Revlimid",
+    "genericName": "lenalidomide"
+  },
+  {
+    "brandName": "Rexulti tablet",
+    "genericName": "brexpiprazole tablet"
+  },
+  {
+    "brandName": "Reyvow",
+    "genericName": "lasmiditan"
+  },
+  {
+    "brandName": "Rezlidhia",
+    "genericName": "olutasidenib"
+  },
+  {
+    "brandName": "Rezurock",
+    "genericName": "belumosudil"
+  },
+  {
+    "brandName": "Rezzayo",
+    "genericName": "rezafungtin for injection"
+  },
+  {
+    "brandName": "Riabni",
+    "genericName": "infliximab-axxq injection; iv"
+  },
+  {
+    "brandName": "RiaSTAP",
+    "genericName": "fibrinogen concentrate (human)"
+  },
+  {
+    "brandName": "Ridaura",
+    "genericName": "auranofin"
+  },
+  {
+    "brandName": "Rinvoq",
+    "genericName": "upadacitinib tablet"
+  },
+  {
+    "brandName": "Risperdal Consta",
+    "genericName": "risperidone"
+  },
+  {
+    "brandName": "Rituxan",
+    "genericName": "rituximab"
+  },
+  {
+    "brandName": "Rituxan Hycela",
+    "genericName": "rituximab/hyaluronidase human"
+  },
+  {
+    "brandName": "Rixubis",
+    "genericName": "coagulation factor IX (recombinant)"
+  },
+  {
+    "brandName": "Roctavian",
+    "genericName": "valoctocogene roxaparvovec-rvox"
+  },
+  {
+    "brandName": "Rolvedon",
+    "genericName": "eflapegrastim-xnst"
+  },
+  {
+    "brandName": "Rowasa",
+    "genericName": "mesalamine"
+  },
+  {
+    "brandName": "Rozerem",
+    "genericName": "ramelteon"
+  },
+  {
+    "brandName": "Rozlytrek",
+    "genericName": "entrectinib"
+  },
+  {
+    "brandName": "Rubraca",
+    "genericName": "rucaparib"
+  },
+  {
+    "brandName": "Ruconest",
+    "genericName": "C1esterase inhibitor (recombinant)"
+  },
+  {
+    "brandName": "Rukobia",
+    "genericName": "fostemsavir"
+  },
+  {
+    "brandName": "Rybelsus",
+    "genericName": "semaglutide tablet"
+  },
+  {
+    "brandName": "Rybrevant",
+    "genericName": "amivantamab-vmjw"
+  },
+  {
+    "brandName": "Rydapt",
+    "genericName": "midostaurin capsule"
+  },
+  {
+    "brandName": "Rylaze",
+    "genericName": "asparaginase erwinia chrysanthemi recombinant-rywn injection"
+  },
+  {
+    "brandName": "Rystiggo",
+    "genericName": "rozanolixizumab-noli injection"
+  },
+  {
+    "brandName": "Rytary Capsule; Extended Release",
+    "genericName": "carbidopa/levodopa"
+  },
+  {
+    "brandName": "Sabril  Powder for Oral Solution",
+    "genericName": "vigabatrin"
+  },
+  {
+    "brandName": "Sabril tablet",
+    "genericName": "vigabatrin"
+  },
+  {
+    "brandName": "Sajazir",
+    "genericName": "icatibant"
+  },
+  {
+    "brandName": "Samsca Tablets 15mg, 30mg",
+    "genericName": "tolvaptan"
+  },
+  {
+    "brandName": "Sancuso",
+    "genericName": "Granisetron Transdermal System"
+  },
+  {
+    "brandName": "Sandostatin LAR Depot",
+    "genericName": "octreotide acetate"
+  },
+  {
+    "brandName": "Santyl",
+    "genericName": "collagenase ointment"
+  },
+  {
+    "brandName": "Saphnelo",
+    "genericName": "anifrolumab-fnia"
+  },
+  {
+    "brandName": "Saphris sublingual tablets",
+    "genericName": "asenapine maleate"
+  },
+  {
+    "brandName": "Sarclisa",
+    "genericName": "isatuximab-irfc"
+  },
+  {
+    "brandName": "Savella",
+    "genericName": "milnacipran HCl tablets"
+  },
+  {
+    "brandName": "Scemblix tablet",
+    "genericName": "asciminib tablet"
+  },
+  {
+    "brandName": "Selzentry",
+    "genericName": "maraviroc"
+  },
+  {
+    "brandName": "Semglee",
+    "genericName": "insulin glargine injection"
+  },
+  {
+    "brandName": "Serevent Diskus (Inhalation Powder)",
+    "genericName": "salmeterol xinafoate"
+  },
+  {
+    "brandName": "Serostim",
+    "genericName": "somatropin"
+  },
+  {
+    "brandName": "Sevenfact",
+    "genericName": "coagulation factor VIIa (recombinant)-jnew"
+  },
+  {
+    "brandName": "SF Rowasa",
+    "genericName": "mesalamine"
+  },
+  {
+    "brandName": "Shingrix",
+    "genericName": "Zoster Vaccine Recombinant, Adjuvanted"
+  },
+  {
+    "brandName": "Signifor Injection",
+    "genericName": "Pasireotide"
+  },
+  {
+    "brandName": "Signifor LAR Injection",
+    "genericName": "pasireotide"
+  },
+  {
+    "brandName": "Siklos",
+    "genericName": "hydroxyurea"
+  },
+  {
+    "brandName": "Siliq",
+    "genericName": "brodalumab"
+  },
+  {
+    "brandName": "Similac PM 60/40",
+    "genericName": "baby formula"
+  },
+  {
+    "brandName": "Simponi",
+    "genericName": "golimumab"
+  },
+  {
+    "brandName": "Simponi ARIA  Injection",
+    "genericName": "golimumab"
+  },
+  {
+    "brandName": "Sirturo Tablets",
+    "genericName": "bedaquiline"
+  },
+  {
+    "brandName": "Skyla",
+    "genericName": "levonorgestrel-releasing intrauterine system"
+  },
+  {
+    "brandName": "Skyrizi",
+    "genericName": "risankizumab-rzaa injectable"
+  },
+  {
+    "brandName": "Skytrofa",
+    "genericName": "lonapegsomatropin-tcgd injection"
+  },
+  {
+    "brandName": "Sogroya",
+    "genericName": "somapacitan-beco"
+  },
+  {
+    "brandName": "Sohonos",
+    "genericName": "palovarotene"
+  },
+  {
+    "brandName": "Soliqua",
+    "genericName": "insulin glargine"
+  },
+  {
+    "brandName": "Soliris",
+    "genericName": "eculizumab"
+  },
+  {
+    "brandName": "Solodyn",
+    "genericName": "minocycline HCI"
+  },
+  {
+    "brandName": "Somatuline Depot Injection",
+    "genericName": "lanreotide acetate"
+  },
+  {
+    "brandName": "Somavert",
+    "genericName": "pegvisomant"
+  },
+  {
+    "brandName": "Sotyktu",
+    "genericName": "deucravacitinib"
+  },
+  {
+    "brandName": "Sovaldi Tablet",
+    "genericName": "sofosbuvir"
+  },
+  {
+    "brandName": "Spevigo",
+    "genericName": "spesolimab-sbzo"
+  },
+  {
+    "brandName": "Spiriva HandiHaler",
+    "genericName": "tiotropium bromide inhalation powder"
+  },
+  {
+    "brandName": "Spiriva Respimat Spray",
+    "genericName": "tiotropium bromide"
+  },
+  {
+    "brandName": "Spravato",
+    "genericName": "esketamine"
+  },
+  {
+    "brandName": "Sprycel",
+    "genericName": "dasatinib"
+  },
+  {
+    "brandName": "Stelara",
+    "genericName": "ustekinumab"
+  },
+  {
+    "brandName": "Stimufend",
+    "genericName": "pegfilgrastim-fpgk"
+  },
+  {
+    "brandName": "Stiolto Respimat",
+    "genericName": "tiotropium bromide and olodaterol"
+  },
+  {
+    "brandName": "Stivarga",
+    "genericName": "regorafenib"
+  },
+  {
+    "brandName": "Strattice",
+    "genericName": "reconstructive tissue matrix"
+  },
+  {
+    "brandName": "Strattice BPS",
+    "genericName": "reconstructive tissue matrix"
+  },
+  {
+    "brandName": "Strensiq injection",
+    "genericName": "asfotase alfa injection"
+  },
+  {
+    "brandName": "Stribild tablet",
+    "genericName": "elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil fumarate"
+  },
+  {
+    "brandName": "Striverdi Respimat Spray",
+    "genericName": "olodaterol"
+  },
+  {
+    "brandName": "Stromectol",
+    "genericName": "Ivermectin"
+  },
+  {
+    "brandName": "Sucraid Oral Solution",
+    "genericName": "sacrosidase"
+  },
+  {
+    "brandName": "Sunlenca",
+    "genericName": "lenacapavir"
+  },
+  {
+    "brandName": "Supartz",
+    "genericName": "sodium hyaluronate"
+  },
+  {
+    "brandName": "Suplena",
+    "genericName": "suplena"
+  },
+  {
+    "brandName": "Sustol",
+    "genericName": "granisetron injection; extended release"
+  },
+  {
+    "brandName": "Susvimo",
+    "genericName": "ranibizumab"
+  },
+  {
+    "brandName": "Syfovre",
+    "genericName": "pegcetacoplan"
+  },
+  {
+    "brandName": "Sylvant",
+    "genericName": "siltuximab"
+  },
+  {
+    "brandName": "Symbyax",
+    "genericName": "olanzapine and fluoxetine hcl"
+  },
+  {
+    "brandName": "Symdeko tablet",
+    "genericName": "tezacaftor/ivacaftor"
+  },
+  {
+    "brandName": "Symlin",
+    "genericName": "pramlintide acetate"
+  },
+  {
+    "brandName": "Symmetrel",
+    "genericName": "amantadine"
+  },
+  {
+    "brandName": "Symtuza",
+    "genericName": "darunavir, cobicistat, emtricitabine, and tenofovir alafenamide"
+  },
+  {
+    "brandName": "Synagis",
+    "genericName": "palivizumab"
+  },
+  {
+    "brandName": "Synarel",
+    "genericName": "nafarelin acetate"
+  },
+  {
+    "brandName": "Synjardy",
+    "genericName": "empagliflozin/metformin hydrochloride"
+  },
+  {
+    "brandName": "Synjardy XR",
+    "genericName": "empagliflozin/metformin HCl Extended Release"
+  },
+  {
+    "brandName": "Synthroid Tablets",
+    "genericName": "levothyroxine sodium tablets, USP"
+  },
+  {
+    "brandName": "Synvisc",
+    "genericName": "hyaluronic acid derivatives"
+  },
+  {
+    "brandName": "Synvisc-One Injection",
+    "genericName": "hylan G-F 20"
+  },
+  {
+    "brandName": "Syprine capsules",
+    "genericName": "trientine hcl"
+  },
+  {
+    "brandName": "Tabrecta",
+    "genericName": "capmatinib"
+  },
+  {
+    "brandName": "Tafinlar",
+    "genericName": "dabrafenib"
+  },
+  {
+    "brandName": "Tagrisso",
+    "genericName": "osimertinib"
+  },
+  {
+    "brandName": "Taltz",
+    "genericName": "ixekizumab"
+  },
+  {
+    "brandName": "Talvey",
+    "genericName": "talquetamab-tgvs"
+  },
+  {
+    "brandName": "Talzenna",
+    "genericName": "talazoparib"
+  },
+  {
+    "brandName": "Targretin",
+    "genericName": "bexarotene"
+  },
+  {
+    "brandName": "Targretin Gel 1%",
+    "genericName": "bexarotene"
+  },
+  {
+    "brandName": "Tascenso ODT",
+    "genericName": "fingolimod"
+  },
+  {
+    "brandName": "Tasigna",
+    "genericName": "nilotinib"
+  },
+  {
+    "brandName": "Tasmar tablets",
+    "genericName": "talcapone"
+  },
+  {
+    "brandName": "Tavalisse",
+    "genericName": "fostamatinib disodium hexahydrate"
+  },
+  {
+    "brandName": "Tavneos",
+    "genericName": "avacopan"
+  },
+  {
+    "brandName": "Tazverik",
+    "genericName": "tazemetostat tablet"
+  },
+  {
+    "brandName": "Tecartus",
+    "genericName": "brexucabtagene autoleucel"
+  },
+  {
+    "brandName": "Tecentriq",
+    "genericName": "atezolizumab"
+  },
+  {
+    "brandName": "Tecvayli",
+    "genericName": "teclistamab-cqyv"
+  },
+  {
+    "brandName": "Teflaro",
+    "genericName": "ceftaroline"
+  },
+  {
+    "brandName": "Tegretol XR",
+    "genericName": "carbamazepine extended release"
+  },
+  {
+    "brandName": "Tenivac",
+    "genericName": "tetanus and diptheria toxoids absorbed"
+  },
+  {
+    "brandName": "Tepezza",
+    "genericName": "teprotumumab-trbw"
+  },
+  {
+    "brandName": "Tepmetko",
+    "genericName": "tepotinib"
+  },
+  {
+    "brandName": "Tetrix Cream",
+    "genericName": "tetrix"
+  },
+  {
+    "brandName": "Tezspire",
+    "genericName": "tezepelumab-ekko injection; subcutaneous"
+  },
+  {
+    "brandName": "Thalomid",
+    "genericName": "thalidomide"
+  },
+  {
+    "brandName": "Thiola",
+    "genericName": "tiopromin tablet"
+  },
+  {
+    "brandName": "Thiola EC",
+    "genericName": "tiopronin tablet; delayed release"
+  },
+  {
+    "brandName": "Thymoglobulin Vial",
+    "genericName": "Anti-thymocyte Globulin (Rabbit)"
+  },
+  {
+    "brandName": "Thyrogen injection",
+    "genericName": "thyrotropin alfa"
+  },
+  {
+    "brandName": "Tibsovo",
+    "genericName": "ivosidenib tablet"
+  },
+  {
+    "brandName": "Tikosyn",
+    "genericName": "dofetilide"
+  },
+  {
+    "brandName": "Tirosint-SOL",
+    "genericName": "levothyroxine sodium"
+  },
+  {
+    "brandName": "Tivdak",
+    "genericName": "tisotumab vedotin-tftv"
+  },
+  {
+    "brandName": "Tivicay PD",
+    "genericName": "dolutegravir"
+  },
+  {
+    "brandName": "Tivicay tablet",
+    "genericName": "dolutegravir"
+  },
+  {
+    "brandName": "TNKase",
+    "genericName": "tenecteplase"
+  },
+  {
+    "brandName": "Tobi",
+    "genericName": "tobramycin"
+  },
+  {
+    "brandName": "Toujeo",
+    "genericName": "insulin glargine (rDNA origin) injection"
+  },
+  {
+    "brandName": "Tracleer tablets",
+    "genericName": "bosentan"
+  },
+  {
+    "brandName": "Tradjenta",
+    "genericName": "linagliptin"
+  },
+  {
+    "brandName": "Trazimera",
+    "genericName": "trastuzumab-qyyp"
+  },
+  {
+    "brandName": "Trecator Tablets",
+    "genericName": "ethionamide"
+  },
+  {
+    "brandName": "Trelegy Ellipta",
+    "genericName": "fluticasone furoate, umeclidinium"
+  },
+  {
+    "brandName": "Tremfya",
+    "genericName": "guselkumab"
+  },
+  {
+    "brandName": "Tresiba",
+    "genericName": "insulin degludec injection"
+  },
+  {
+    "brandName": "Tretten Injection",
+    "genericName": "coagulation factor Xlll A-Subunit (rDNA)"
+  },
+  {
+    "brandName": "Trijardy XR",
+    "genericName": "empagliflozin/linagliptin/metformin HCl extended release"
+  },
+  {
+    "brandName": "Trikafta tablet",
+    "genericName": "elexacaftor/tezacaftor/ivacaftor"
+  },
+  {
+    "brandName": "Trintellix",
+    "genericName": "vortioxetine"
+  },
+  {
+    "brandName": "Triumeq",
+    "genericName": "abacavir/dolutegravir/lamivudine"
+  },
+  {
+    "brandName": "Triumeq PD",
+    "genericName": "abacavir, dolutegravir, and lamivudine"
+  },
+  {
+    "brandName": "Trizivir (Tablets)",
+    "genericName": "abacavir sulfate, lamivudine, and zidovudine)"
+  },
+  {
+    "brandName": "Trokendi XR Capsule",
+    "genericName": "topiramate"
+  },
+  {
+    "brandName": "Trudhesa",
+    "genericName": "dihydroergotamine mesylate"
+  },
+  {
+    "brandName": "Trulance",
+    "genericName": "plecanatide"
+  },
+  {
+    "brandName": "Trulicity",
+    "genericName": "dulaglutide"
+  },
+  {
+    "brandName": "Trumenba",
+    "genericName": "Meningococcal Group B Vaccine"
+  },
+  {
+    "brandName": "Truqap",
+    "genericName": "capivasertib"
+  },
+  {
+    "brandName": "Truvada",
+    "genericName": "tenofovir disoproxil / emtricitabine"
+  },
+  {
+    "brandName": "Truxima",
+    "genericName": "rituximab-abbs"
+  },
+  {
+    "brandName": "Tukysa",
+    "genericName": "tucatinib tablets"
+  },
+  {
+    "brandName": "Turalio capsule",
+    "genericName": "pexidartinib"
+  },
+  {
+    "brandName": "TwoCal",
+    "genericName": "TwoCal HN"
+  },
+  {
+    "brandName": "Tybost",
+    "genericName": "cobicistat"
+  },
+  {
+    "brandName": "Tykerb",
+    "genericName": "lapatinib tablets"
+  },
+  {
+    "brandName": "Tymlos",
+    "genericName": "abaloparatide"
+  },
+  {
+    "brandName": "Tyrex-1 Powder",
+    "genericName": "Tyrex-1 Powder"
+  },
+  {
+    "brandName": "Tyrex-2 Powder",
+    "genericName": "Tyrex-2 Powder"
+  },
+  {
+    "brandName": "Tysabri Vial",
+    "genericName": "natalizumab"
+  },
+  {
+    "brandName": "Tyvaso inhalation solution",
+    "genericName": "treprostinil"
+  },
+  {
+    "brandName": "Ubrelvy",
+    "genericName": "ubrogepant"
+  },
+  {
+    "brandName": "Uceris rectal foam",
+    "genericName": "budesonide"
+  },
+  {
+    "brandName": "Udenyca",
+    "genericName": "pegfilgrastim-cbqv"
+  },
+  {
+    "brandName": "Ultomiris",
+    "genericName": "ravulizumab-cwvz injection; iv"
+  },
+  {
+    "brandName": "Uplizna",
+    "genericName": "inebilizumab-cdon"
+  },
+  {
+    "brandName": "Uptravi",
+    "genericName": "selexipag"
+  },
+  {
+    "brandName": "Uzedy",
+    "genericName": "risperidone extended-release injectable suspension"
+  },
+  {
+    "brandName": "Vabysmo",
+    "genericName": "faricimab-svoa"
+  },
+  {
+    "brandName": "Vagifem",
+    "genericName": "estradiol hemihydrate"
+  },
+  {
+    "brandName": "Valchlor",
+    "genericName": "mechlorethamine gel; topical"
+  },
+  {
+    "brandName": "Valtoco",
+    "genericName": "diazepam nasal spray"
+  },
+  {
+    "brandName": "Vanflyta",
+    "genericName": "quizartinib"
+  },
+  {
+    "brandName": "Vaqta",
+    "genericName": "Hepatitis A vaccine, inactivated"
+  },
+  {
+    "brandName": "Varivax",
+    "genericName": "Varicella Virus vaccine live"
+  },
+  {
+    "brandName": "Varubi tablet",
+    "genericName": "rolapitant tablet"
+  },
+  {
+    "brandName": "Vaxneuvance",
+    "genericName": "Pneumococcal 15-valent conjugate vaccine"
+  },
+  {
+    "brandName": "Vectibix",
+    "genericName": "panitumumab"
+  },
+  {
+    "brandName": "Veklury",
+    "genericName": "remdesivir"
+  },
+  {
+    "brandName": "Veletri Injection",
+    "genericName": "epoprostenol"
+  },
+  {
+    "brandName": "Velphoro Chewable Tablets",
+    "genericName": "sucroferric oxyhydroxide"
+  },
+  {
+    "brandName": "Veltassa",
+    "genericName": "patiromer"
+  },
+  {
+    "brandName": "Vemlidy",
+    "genericName": "tenofovir alafenamide"
+  },
+  {
+    "brandName": "Venclexta",
+    "genericName": "venetoclax"
+  },
+  {
+    "brandName": "Venofer",
+    "genericName": "iron sucrose"
+  },
+  {
+    "brandName": "Ventavis",
+    "genericName": "iloprost"
+  },
+  {
+    "brandName": "Verquvo",
+    "genericName": "vericiguat tablet"
+  },
+  {
+    "brandName": "Verzenio",
+    "genericName": "abemaciclib"
+  },
+  {
+    "brandName": "Viberzi",
+    "genericName": "eluxadoline"
+  },
+  {
+    "brandName": "Victoza injection",
+    "genericName": "liraglutide (rDNA) injection"
+  },
+  {
+    "brandName": "Vidaza",
+    "genericName": "azacitidine"
+  },
+  {
+    "brandName": "Viibryd tablets",
+    "genericName": "vilazodone"
+  },
+  {
+    "brandName": "Vijoice",
+    "genericName": "alpelisib"
+  },
+  {
+    "brandName": "Viltepso",
+    "genericName": "viltolarsen"
+  },
+  {
+    "brandName": "Vimizim",
+    "genericName": "elosulfase alfa"
+  },
+  {
+    "brandName": "Viokace tablets",
+    "genericName": "pancrelipase"
+  },
+  {
+    "brandName": "Viracept",
+    "genericName": "nelfinavir mesylate"
+  },
+  {
+    "brandName": "Vistogard",
+    "genericName": "uridine triacetate"
+  },
+  {
+    "brandName": "Visudyne",
+    "genericName": "verteporfin for injection"
+  },
+  {
+    "brandName": "Vital 1.0",
+    "genericName": "Vital 1.0"
+  },
+  {
+    "brandName": "Vital 1.5",
+    "genericName": "Vital 1.5"
+  },
+  {
+    "brandName": "Vital AF 1.2 cal",
+    "genericName": "Vital AF 1.2 cal"
+  },
+  {
+    "brandName": "Vital High Protein",
+    "genericName": "vital high protein"
+  },
+  {
+    "brandName": "Vital Peptide 1.5 Cal",
+    "genericName": "vital peptide 1.5 cal"
+  },
+  {
+    "brandName": "Vitrakvi",
+    "genericName": "larotrectinib"
+  },
+  {
+    "brandName": "Vivitrol",
+    "genericName": "naltrexone for extended-release injectable suspension"
+  },
+  {
+    "brandName": "Vizimpro",
+    "genericName": "dacomitinib"
+  },
+  {
+    "brandName": "Vonjo",
+    "genericName": "pacritinib capsule"
+  },
+  {
+    "brandName": "Vonvendi",
+    "genericName": "von Willebrand factor complex human"
+  },
+  {
+    "brandName": "Vosevi",
+    "genericName": "sofosbuvir, velpatasvir, and voxilaprevir"
+  },
+  {
+    "brandName": "Votrient",
+    "genericName": "pazopanib"
+  },
+  {
+    "brandName": "Vowst",
+    "genericName": "fecal microbiota spores live-brpk capsule"
+  },
+  {
+    "brandName": "Voxzogo",
+    "genericName": "vosoritide injection"
+  },
+  {
+    "brandName": "Vraylar",
+    "genericName": "cariprazine"
+  },
+  {
+    "brandName": "VTAMA",
+    "genericName": "Tapinarof"
+  },
+  {
+    "brandName": "Vumerity",
+    "genericName": "diroximel fumarate"
+  },
+  {
+    "brandName": "Vyepti",
+    "genericName": "eptinezumab-jjmr injection"
+  },
+  {
+    "brandName": "Vyndamax",
+    "genericName": "tafamidis"
+  },
+  {
+    "brandName": "Vyndaqel",
+    "genericName": "tafamidis meglumine"
+  },
+  {
+    "brandName": "Vyondys 53",
+    "genericName": "golodirsen injection"
+  },
+  {
+    "brandName": "Vyvgart",
+    "genericName": "efgartigimod alfa injection"
+  },
+  {
+    "brandName": "Vyxeos",
+    "genericName": "daunorubicin/cytarabine"
+  },
+  {
+    "brandName": "Vyzulta",
+    "genericName": "latanoprostene bunod ophthalmic solution"
+  },
+  {
+    "brandName": "Wainua",
+    "genericName": "eplontersen"
+  },
+  {
+    "brandName": "Wakix",
+    "genericName": "pitolisant"
+  },
+  {
+    "brandName": "Welireg",
+    "genericName": "belzutifan"
+  },
+  {
+    "brandName": "Wixela",
+    "genericName": "fluticasone propionate-salmeterol"
+  },
+  {
+    "brandName": "Xadago tablet",
+    "genericName": "safinamide tablet"
+  },
+  {
+    "brandName": "Xalkori",
+    "genericName": "crizotinib"
+  },
+  {
+    "brandName": "Xarelto",
+    "genericName": "rivaroxaban tablets"
+  },
+  {
+    "brandName": "Xatmep",
+    "genericName": "methotrexate solution"
+  },
+  {
+    "brandName": "Xcopri",
+    "genericName": "cenobamate tablets"
+  },
+  {
+    "brandName": "Xeljanz oral",
+    "genericName": "(tofacitinib"
+  },
+  {
+    "brandName": "Xeljanz tablet",
+    "genericName": "tofacitinib citrate"
+  },
+  {
+    "brandName": "Xeljanz XR",
+    "genericName": "tofacitnib"
+  },
+  {
+    "brandName": "Xembify",
+    "genericName": "immune globulin subcutaneous human-klhw"
+  },
+  {
+    "brandName": "XEN Sterile Injector",
+    "genericName": "XEN sterile injector"
+  },
+  {
+    "brandName": "Xeomin Injection",
+    "genericName": "incobotulinumtoxinA"
+  },
+  {
+    "brandName": "Xermelo",
+    "genericName": "telotristat ethyl"
+  },
+  {
+    "brandName": "XGEVA",
+    "genericName": "denosumab"
+  },
+  {
+    "brandName": "Xhance nasal spray",
+    "genericName": "fluticasone propionate nasal spray"
+  },
+  {
+    "brandName": "Xiaflex Injection",
+    "genericName": "collagenase clostridium histolyticum"
+  },
+  {
+    "brandName": "Xifaxan",
+    "genericName": "rifaximin"
+  },
+  {
+    "brandName": "Xigduo XR",
+    "genericName": "dapagliflozin/metformin"
+  },
+  {
+    "brandName": "Xiidra",
+    "genericName": "lifitegrast ophthalmic solution"
+  },
+  {
+    "brandName": "Xipere",
+    "genericName": "triamcinolone acetonide injectable suspension"
+  },
+  {
+    "brandName": "Xofigo injection",
+    "genericName": "radium Ra 223 dichloride"
+  },
+  {
+    "brandName": "Xolair",
+    "genericName": "omalizumab"
+  },
+  {
+    "brandName": "Xospata",
+    "genericName": "gilteritinib"
+  },
+  {
+    "brandName": "Xpovio",
+    "genericName": "selinexor"
+  },
+  {
+    "brandName": "Xtandi",
+    "genericName": "enzalutamide"
+  },
+  {
+    "brandName": "Xulane",
+    "genericName": "ethinyl estradiol-norelgestromin"
+  },
+  {
+    "brandName": "Xultophy",
+    "genericName": "insulin degludec/liraglutide"
+  },
+  {
+    "brandName": "Xyntha",
+    "genericName": "antihemophiliam factor (recombinant)"
+  },
+  {
+    "brandName": "Xyrem",
+    "genericName": "gammahydroxybutyrate"
+  },
+  {
+    "brandName": "Xywav",
+    "genericName": "calcium-magnesium-potassium-sodium oxybates oral solution"
+  },
+  {
+    "brandName": "Yervoy",
+    "genericName": "ipilimumab"
+  },
+  {
+    "brandName": "Yescarta",
+    "genericName": "axicabtagene ciloleucel"
+  },
+  {
+    "brandName": "Yondelis",
+    "genericName": "trabectedin"
+  },
+  {
+    "brandName": "Yupelri",
+    "genericName": "revefenacin"
+  },
+  {
+    "brandName": "Yutiq",
+    "genericName": "fluocinolone acetonide intravitreal implant"
+  },
+  {
+    "brandName": "Zarontin",
+    "genericName": "ethosuximide"
+  },
+  {
+    "brandName": "Zarxio",
+    "genericName": "filgrastim-sndz"
+  },
+  {
+    "brandName": "Zegalogue",
+    "genericName": "dasiglucagon"
+  },
+  {
+    "brandName": "Zejula",
+    "genericName": "niraparib"
+  },
+  {
+    "brandName": "Zelapar",
+    "genericName": "selegiline HCI"
+  },
+  {
+    "brandName": "Zelboraf",
+    "genericName": "vemurafenib"
+  },
+  {
+    "brandName": "Zemaira",
+    "genericName": "Alpha1-Proteinase Inhibitor (Human)"
+  },
+  {
+    "brandName": "Zenpep capsules",
+    "genericName": "pancrelipase"
+  },
+  {
+    "brandName": "Zepatier",
+    "genericName": "elbasvir/grazoprevir"
+  },
+  {
+    "brandName": "Zeposia",
+    "genericName": "ozanimod capsule"
+  },
+  {
+    "brandName": "Zepzelca",
+    "genericName": "lurbinectedin injection"
+  },
+  {
+    "brandName": "Zerbaxa Injection",
+    "genericName": "ceftolozane/tazobactam"
+  },
+  {
+    "brandName": "Ziagen",
+    "genericName": "abacavir sulfate"
+  },
+  {
+    "brandName": "Ziana gel",
+    "genericName": "clindamycin phosphate, tretinoin"
+  },
+  {
+    "brandName": "Ziextenzo",
+    "genericName": "pegfilgrastim-bmez"
+  },
+  {
+    "brandName": "Zilretta",
+    "genericName": "triamcinolone acetonide extended release"
+  },
+  {
+    "brandName": "Zinplava",
+    "genericName": "bezlotoxumab"
+  },
+  {
+    "brandName": "Zirgan",
+    "genericName": "ganciclovir ophthalmic gel"
+  },
+  {
+    "brandName": "Zokinvy",
+    "genericName": "lonafarnib"
+  },
+  {
+    "brandName": "Zoladex",
+    "genericName": "goserelin acetate"
+  },
+  {
+    "brandName": "Zolinza",
+    "genericName": "vorinostat"
+  },
+  {
+    "brandName": "Zonegran",
+    "genericName": "zonisamide"
+  },
+  {
+    "brandName": "Zonisade",
+    "genericName": "zonisamide oral suspension"
+  },
+  {
+    "brandName": "Zoryve cream",
+    "genericName": "rofumilast cream"
+  },
+  {
+    "brandName": "Ztalmy",
+    "genericName": "ganaxolone"
+  },
+  {
+    "brandName": "Zubsolv Tablet; Sublingual",
+    "genericName": "buprenorphine/naloxone"
+  },
+  {
+    "brandName": "Zulresso",
+    "genericName": "brexanolone injection"
+  },
+  {
+    "brandName": "Zyclara",
+    "genericName": "imiquimod"
+  },
+  {
+    "brandName": "Zydelig Tablet",
+    "genericName": "idelalisib"
+  },
+  {
+    "brandName": "Zykadia",
+    "genericName": "ceritinib"
+  },
+  {
+    "brandName": "Zylet",
+    "genericName": "loteprednol etabonate and tobramycin ophthalmic suspension"
+  },
+  {
+    "brandName": "Zynlonta",
+    "genericName": "loncastuximab tesirine-lpyl"
+  },
+  {
+    "brandName": "Zynrelef",
+    "genericName": "bupivacaine/meloxicam solution"
+  },
+  {
+    "brandName": "Zynteglo",
+    "genericName": "betibeglogene autotemcel suspension; iv infusion"
+  },
+  {
+    "brandName": "Zynyz",
+    "genericName": "retifanlimab-dlwr"
+  },
+  {
+    "brandName": "Zyprexa",
+    "genericName": "olanzapine"
+  },
+  {
+    "brandName": "Zyprexa Zydis",
+    "genericName": "olanzapine"
+  }
+]

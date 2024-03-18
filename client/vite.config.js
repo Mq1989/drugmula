@@ -9,7 +9,16 @@ export default defineConfig({
       '/autocomplete': {
         target: 'http://localhost:5500',
         changeOrigin: true
+      },
+      '/drugautocomplete': {
+        target: 'http://localhost:5500',
+        changeOrigin: true
+      },
+      '/druginfo': {
+        target: 'http://localhost:5500',
+        changeOrigin: true
       }
+
     }
   }
 })

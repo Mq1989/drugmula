@@ -1,5 +1,7 @@
 const axios = require("axios");
 const formatDate = require("./formatDate");
+const patentData = require('../patent_data')
+const excluData = require('../exclusivity_data')
 
 module.exports = async function getInfo(term) {
   const multiFieldSearchExample =
@@ -19,6 +21,12 @@ module.exports = async function getInfo(term) {
   //   console.log(dataTrials.data);
   const name = drugData.products[0].brand_name;
   const body = drugData.openfda;
+  const appNo = drugData.openfda.application_number
+  console.log(body)
+  const patent_body = patentData.filter(data => data.Appl_No == appNo[0].slice(3).toString())
+  const exclu_body = excluData.filter(data => data.Appl_No == appNo[0].slice(3).toString())
+  console.log(exclu_body)
+  console.log(patent_body)
   let submissions = [];
   // console.log(drugData.submissions);
   drugData.submissions.forEach((element) => {
@@ -61,6 +69,8 @@ module.exports = async function getInfo(term) {
     relatedStudies: studies,
     indications: labelResults[0].indications_and_usage,
     description: labelResults[0].description,
+    patent_data: patent_body,
+    exclu_data: exclu_body
   };
   //   console.log(returnData)
   console.log(returnData);
