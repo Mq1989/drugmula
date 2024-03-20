@@ -21,10 +21,11 @@ module.exports = async function getInfo(term) {
   //   console.log(dataTrials.data);
   const name = drugData.products[0].brand_name;
   const body = drugData.openfda;
-  const appNo = drugData.openfda.application_number
+  console.log(drugData)
+  const appNo = body.application_number[0] && body.application_number[0] ? body.application_number[0] : ''
   console.log(body)
-  const patent_body = patentData.filter(data => data.Appl_No == appNo[0].slice(3).toString())
-  const exclu_body = excluData.filter(data => data.Appl_No == appNo[0].slice(3).toString())
+  const patent_body = appNo && patentData.filter(data => data.Appl_No == appNo[0].slice(3).toString())
+  const exclu_body = appNo && excluData.filter(data => data.Appl_No == appNo[0].slice(3).toString())
   console.log(exclu_body)
   console.log(patent_body)
   let submissions = [];
@@ -66,10 +67,10 @@ module.exports = async function getInfo(term) {
     new_indications: submissions.filter(
       (sub) => sub["submission type"] == "Efficacy"
     ),
-    relatedStudies: studies,
-    indications: labelResults[0].indications_and_usage,
-    description: labelResults[0].description,
-    patent_data: patent_body,
+    relatedStudies: studies && studies.filter(study => study.Study.ProtocolSection.SponsorCollaboratorsModule.LeadSponsor.LeadSponsorClass == 'INDUSTRY'),
+    indications: labelResults[0].indications_and_usage.map(ind => ind.replace('1 INDICATIONS AND USAGE', '')),
+    description: labelResults[0].description[0].replace('11 DESCRIPTION', ''),
+    patent_data: patent_body.filter(p => p.Patent_Use_Code),
     exclu_data: exclu_body
   };
   //   console.log(returnData)

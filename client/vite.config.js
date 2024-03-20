@@ -17,6 +17,10 @@ export default defineConfig({
       '/druginfo': {
         target: 'http://localhost:5500',
         changeOrigin: true
+      },
+      '/stockinfo': {
+        target: 'http://localhost:5500',
+        changeOrigin: true
       }
 
     }
